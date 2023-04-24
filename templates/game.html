@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <script src="/data/questions.json"></script>
+  <style>
+    body {
+      background: url("/static/images/background_Questions1.jpg");
+      font-family: 'Harry P', Magical Me, cursive;
+      background-color: #444;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 8rem;
+      color: #4b0082;
+      margin-bottom: 2rem;
+    }
+    button {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 0.5rem 2rem;
+      margin: 2rem;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    button:hover {
+      background-color: #4B0082;
+      color: #F0E68C;
+    }
+    button.disabled {
+      background-color: #ccc;
+      color: #888;
+      border-color: #888;
+      cursor: not-allowed;
+    }
+    .question {
+      font-size: 5rem;
+      color: #F0E68C;
+      margin-bottom: 3rem;
+    }
+    .options {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .option {
+      width: 45%;
+      text-align: left;
+      margin-bottom: 3rem;
+      font-size: 3rem;
+    }
+    input[type="radio"] {
+      width: 25px;
+      height: 25px;
+      cursor: pointer;
+    }
+  </style>
+  <title>Game - Harry Potter Trivia</title>
+</head>
+<body>
+  <div class="question-container">
+    <p class="question" id="question-text">Question text goes here...</p>
+   <div class="options">
+      <!-- Replace the option text with the actual options from your JSON file -->
+      <div class="option"><input type="radio" name="option" value="A"> Option A</div>
+      <div class="option"><input type="radio" name="option" value="B"> Option B</div>
+      <div class="option"><input type="radio" name="option" value="C"> Option C</div>
+      <div class="option"><input type="radio" name="option" value="D"> Option D</div>
+    </div>
+  </div>
+  <button id="nextButton" class="disabled" disabled>Next</button>
+
+  <script>
+    // Your game logic and question handling will go here
+  </script>
+</body>
+</html>
+
+
+

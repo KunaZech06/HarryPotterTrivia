@@ -1,0 +1,3132 @@
+[
+    {
+        "questions": [
+            {
+                "question": "Where do the Dursley's live?",
+                "choices": [
+                    "10 Privet Drive",
+                    "6 Privet Drive",
+                    "4 Privet Drive",
+                    "11 Privet Drive"
+                ],
+                "correct_answer": "4 Privet Drive"
+            },
+            {
+                "question": "How many presents did Dudley think he received on his birthday?",
+                "choices": [
+                    "36",
+                    "40",
+                    "38",
+                    "46"
+                ],
+                "correct_answer": "36"
+            },
+            {
+                "question": "On which day does the first term of Hogwarts start?",
+                "choices": [
+                    "September 3rd",
+                    "September 5th",
+                    "September 1st",
+                    "September 7th"
+                ],
+                "correct_answer": "September 1st"
+            },
+            {
+                "question": "Who first visits Harry and Ron in their train compartment?",
+                "choices": [
+                    "Hermione",
+                    "Neville",
+                    "Malfoy",
+                    "Fred and George"
+                ],
+                "correct_answer": "Hermione"
+            },
+            {
+                "question": "Who teaches History of Magic?",
+                "choices": [
+                    "Professor Flitwick",
+                    "Professor Sprout",
+                    "Professor Nicholas",
+                    "Professor Binns"
+                ],
+                "correct_answer": "Professor Binns"
+            },
+            {
+                "question": "What spell does Malfoy use on Neville to bully him?",
+                "choices": [
+                    "Stupify",
+                    "Locomotor Mortis",
+                    "Mucus ad Nauseam",
+                    "Petrificus Totalus"
+                ],
+                "correct_answer": "Locomotor Mortis"
+            },
+            {
+                "question": "Who does Lee Jordan say is attractive during the Quidditch match?",
+                "choices": [
+                    "Angelina Johnson",
+                    "Katie Bell",
+                    "Cho Chang",
+                    "Parvati Patel"
+                ],
+                "correct_answer": "Angelina Johnson"
+            },
+            {
+                "question": "Which planet does Ronan and Bane remark is bright that night in the Forbidden Forest?",
+                "choices": [
+                    "Jupiter",
+                    "Saturn",
+                    "Mars",
+                    "Uranus"
+                ],
+                "correct_answer": "Mars"
+            },
+            {
+                "question": "What is the first trap that Harry, Ron, and Hermione have to get passed under the trap door?",
+                "choices": [
+                    "Catch the Key",
+                    "The Potion Logic Test",
+                    "Wizard's Chess",
+                    "Devil's Snare"
+                ],
+                "correct_answer": "Devil's Snare"
+            },
+            {
+                "question": "How many total extra points does Dumbledore give the Gryffindor's at the end of the term feast?",
+                "choices": [
+                    "130",
+                    "170",
+                    "150",
+                    "160"
+                ],
+                "correct_answer": "170"
+            },
+            {
+                "question": "What 'joke' does Harry interrupt Uncle Vernon from completing during the dinner party?",
+                "choices": [
+                    "American Arm Wrestling Joke",
+                    "Chinese Chess Joke",
+                    "Japanese Golfer Joke",
+                    "Spanish Swimmer Joke"
+                ],
+                "correct_answer": "Japanese Golfer Joke"
+            },
+            {
+                "question": "What chore does Mrs. Weasley make Fred, George, and Ron do as punishment for flying the car?",
+                "choices": [
+                    "De-gnoming the garden",
+                    "Restock the floo powder",
+                    "Wake up all the family portraits",
+                    "Fluff up the flying broomsticks"
+                ],
+                "correct_answer": "De-gnoming the garden"
+            },
+            {
+                "question": "What was the password to enter the Gryffindor Common Room in the second year?",
+                "choices": [
+                    "Jellytart",
+                    "Wattlebird",
+                    "Humbug",
+                    "Fiddlestick"
+                ],
+                "correct_answer": "Wattlebird"
+            },
+            {
+                "question": "What type of creature did Gilderoy Lockhart let loose on his class?",
+                "choices": [
+                    "Cornish pixies",
+                    "Wild hornbucks",
+                    "Mandrakes",
+                    "Snozburries"
+                ],
+                "correct_answer": "Cornish pixies"
+            },
+            {
+                "question": "What brand of broomstick did Fred and George fly?",
+                "choices": [
+                    "Firebolt",
+                    "Nimbus 2001",
+                    "Cleansweep 5",
+                    "Nimbus 2000"
+                ],
+                "correct_answer": "Cleansweep 5"
+            },
+            {
+                "question": "Who found the petrified Colin Creevey?",
+                "choices": [
+                    "Professor McGonagall",
+                    "Professor Dumbledore",
+                    "Professor Snape",
+                    "Madam Pomfrey"
+                ],
+                "correct_answer": "Professor Dumbledore"
+            },
+            {
+                "question": "What does the Hogwarts motto 'Draco dormiens nunquam titillandus' mean?",
+                "choices": [
+                    "Never tickle a sleeping dragon",
+                    "Magic comes from within",
+                    "Where loyalty lies, magic thrives",
+                    "Strength and unity through magic"
+                ],
+                "correct_answer": "Never tickle a sleeping dragon"
+            },
+            {
+                "question": "What type of creature is Buckbeak?",
+                "choices": [
+                    "Hippogriff",
+                    "Griffin",
+                    "Thestral",
+                    "Kneazle"
+                ],
+                "correct_answer": "Hippogriff"
+            },
+            {
+                "question": "Which spell is used to disarm an opponent?",
+                "choices": [
+                    "Expelliarmus",
+                    "Stupefy",
+                    "Protego",
+                    "Alohomora"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "Who disguised themselves as Mad-Eye Moody in the Goblet of Fire?",
+                "choices": [
+                    "Barty Crouch Jr.",
+                    "Peter Pettigrew",
+                    "Bellatrix Lestrange",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": "Barty Crouch Jr."
+            },
+            {
+                "question": "Which of these is NOT one of the Unforgivable Curses?",
+                "choices": [
+                    "Avada Kedavra",
+                    "Imperio",
+                    "Cruciatus",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Sectumsempra"
+            },
+            {
+                "question": "What is the name of the potion that grants good luck?",
+                "choices": [
+                    "Felix Felicis",
+                    "Amortentia",
+                    "Veritaserum",
+                    "Polyjuice Potion"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the Weasley family's house?",
+                "choices": [
+                    "The Burrow",
+                    "Shell Cottage",
+                    "Grimmauld Place",
+                    "Spinner's End"
+                ],
+                "correct_answer": "The Burrow"
+            },
+            {
+                "question": "What do Hermione's parents do for a living?",
+                "choices": [
+                    "Dentists",
+                    "Teachers",
+                    "Accountants",
+                    "Lawyers"
+                ],
+                "correct_answer": "Dentists"
+            },
+            {
+                "question": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
+                "choices": [
+                    "Fang",
+                    "Fluffy",
+                    "Padfoot",
+                    "Griphook"
+                ],
+                "correct_answer": "Fluffy"
+            },
+            {
+                "question": "What is the Patronus of Luna Lovegood?",
+                "choices": [
+                    "Rabbit",
+                    "Otter",
+                    "Stag",
+                    "Hare"
+                ],
+                "correct_answer": "Hare"
+            },
+            {
+                "question": "What is the name of the wizarding village near Hogwarts?",
+                "choices": [
+                    "Hogsmeade",
+                    "Godric's Hollow",
+                    "Diagon Alley",
+                    "Muggleton"
+                ],
+                "correct_answer": "Hogsmeade"
+            },
+            {
+                "question": "What is the name of the wizarding newspaper?",
+                "choices": [
+                    "The Daily Prophet",
+                    "The Quibbler",
+                    "The Witch's Weekly",
+                    "The Wizard's Gazette"
+                ],
+                "correct_answer": "The Daily Prophet"
+            },
+            {
+                "question": "What is the name of the platform at King's Cross Station where students board the Hogwarts Express?",
+                "choices": [
+                    "Platform 9 1/2",
+                    "Platform 9 3/4",
+                    "Platform 8 1/2",
+                    "Platform 10 3/4"
+                ],
+                "correct_answer": "Platform 9 3/4"
+            },
+            {
+                "question": "What is the name of Fred and George Weasley's joke shop?",
+                "choices": [
+                    "Weasley's Wizard Wheezes",
+                    "Weasley's Wacky Wares",
+                    "Weasley's Magic Market",
+                    "Weasley's Joke Junction"
+                ],
+                "correct_answer": "Weasley's Wizard Wheezes"
+            },
+            {
+                "question": "What is the name of the magical item that helps its user travel back in time?",
+                "choices": [
+                    "Time-Turner",
+                    "Chrono Charm",
+                    "Temporal Token",
+                    "Hourglass of Ages"
+                ],
+                "correct_answer": "Time-Turner"
+            },
+            {
+                "question": "Who is the Half-Blood Prince?",
+                "choices": [
+                    "Harry Potter",
+                    "Severus Snape",
+                    "Tom Riddle",
+                    "Albus Dumbledore"
+                ],
+                "correct_answer": "Severus Snape"
+            },
+            {
+                "question": "What are the small, mischievous creatures that like to cause havoc at Hogwarts?",
+                "choices": [
+                    "Doxy",
+                    "Niffler",
+                    "Boggart",
+                    "Peeves"
+                ],
+                "correct_answer": "Peeves"
+            },
+            {
+                "question": "Which Hogwarts house was Moaning Myrtle sorted into?",
+                "choices": [
+                    "Gryffindor",
+                    "Hufflepuff",
+                    "Ravenclaw",
+                    "Slytherin"
+                ],
+                "correct_answer": "Ravenclaw"
+            },
+            {
+                "question": "What does 'Alohomora' do?",
+                "choices": [
+                    "Unlocks doors",
+                    "Lights up dark spaces",
+                    "Levitates objects",
+                    "Summons an object"
+                ],
+                "correct_answer": "Unlocks doors"
+            },
+            {
+                "question": "What position does Harry play in Quidditch?",
+                "choices": [
+                    "Chaser",
+                    "Beater",
+                    "Seeker",
+                    "Keeper"
+                ],
+                "correct_answer": "Seeker"
+            },
+            {
+                "question": "What is the name of the house elf who serves the Malfoy family?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Dobby"
+            },
+            {
+                "question": "What is the name of the potion that allows the drinker to assume the appearance of someone else?",
+                "choices": [
+                    "Felix Felicis",
+                    "Amortentia",
+                    "Polyjuice Potion",
+                    "Veritaserum"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What does the spell 'Riddikulus' do?",
+                "choices": [
+                    "Turns a boggart into something humorous",
+                    "Makes the target laugh uncontrollably",
+                    "Reveals the true form of an object",
+                    "Produces a jet of water"
+                ],
+                "correct_answer": "Turns a boggart into something humorous"
+            },
+            {
+                "question": "Which magical creature can only be seen by those who have witnessed death?",
+                "choices": [
+                    "Thestrals",
+                    "Hippogriffs",
+                    "Grindylows",
+                    "Nifflers"
+                ],
+                "correct_answer": "Thestrals"
+            },
+            {
+                "question": "What spell does Hermione use to fix Harry's glasses?",
+                "choices": [
+                    "Reparo",
+                    "Episkey",
+                    "Oculus Reparo",
+                    "Wingardium Leviosa"
+                ],
+                "correct_answer": "Oculus Reparo"
+            },
+            {
+                "question": "What is the name of the wizard prison?",
+                "choices": [
+                    "Nurmengard",
+                    "Azkaban",
+                    "Grindelwald's Fortress",
+                    "Durmstrang"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "Who is the Hogwarts ghost that teaches a class on the history of the school?",
+                "choices": [
+                    "Professor Binns",
+                    "Moaning Myrtle",
+                    "Sir Nicholas de Mimsy-Porpington",
+                    "The Grey Lady"
+                ],
+                "correct_answer": "Professor Binns"
+            },
+            {
+                "question": "What does the Marauder's Map show?",
+                "choices": [
+                    "The secret passages of Hogwarts",
+                    "The locations of Horcruxes",
+                    "The positions of people within Hogwarts",
+                    "A map of the wizarding world"
+                ],
+                "correct_answer": "The positions of people within Hogwarts"
+            },
+            {
+                "question": "What type of magical creature is Buckbeak?",
+                "choices": [
+                    "Hippogriff",
+                    "Griffin",
+                    "Dragon",
+                    "Phoenix"
+                ],
+                "correct_answer": "Hippogriff"
+            },
+            {
+                "question": "What is the name of the charm that prevents Muggles from seeing magical creatures or locations?",
+                "choices": [
+                    "Confundus Charm",
+                    "Muggle-Repelling Charm",
+                    "Muffliato",
+                    "Muggle-Proof Charm"
+                ],
+                "correct_answer": "Muggle-Repelling Charm"
+            },
+            {
+                "question": "What is the incantation for the Patronus Charm?",
+                "choices": [
+                    "Expecto Patronum",
+                    "Patronus Exspecto",
+                    "Protego Patronum",
+                    "Lumos Patronum"
+                ],
+                "correct_answer": "Expecto Patronum"
+            },
+            {
+                "question": "What do the initials R.A.B. stand for?",
+                "choices": [
+                    "Regulus Arcturus Black",
+                    "Rufus Alphard Black",
+                    "Reginald Aloysius Black",
+                    "Roger Archibald Black"
+                ],
+                "correct_answer": "Regulus Arcturus Black"
+            },
+            {
+                "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+                "choices": [
+                    "Griphook",
+                    "Gornuk",
+                    "Bogrod",
+                    "Ragnok"
+                ],
+                "correct_answer": "Griphook"
+            },
+            {
+                "question": "What is the name of the potion that can regrow bones?",
+                "choices": [
+                    "Skele-Gro",
+                    "Bone Regenerator",
+                    "Ossificare Potion",
+                    "Calcium Fortifier"
+                ],
+                "correct_answer": "Skele-Gro"
+            },
+            {
+                "question": "What is the name of the magical textbook that bites anyone who tries to read it?",
+                "choices": [
+                    "Magical Water Plants of the Mediterranean",
+                    "The Monster Book of Monsters",
+                    "The Dark Arts: A Legal Companion",
+                    "Curses and Counter-Curses"
+                ],
+                "correct_answer": "The Monster Book of Monsters"
+            },
+            {
+                "question": "What is the name of the wizarding radio station?",
+                "choices": [
+                    "Wizarding Wireless Network",
+                    "Magic FM",
+                    "Wiz-Wave",
+                    "Wizarding World Radio"
+                ],
+                "correct_answer": "Wizarding Wireless Network"
+            },
+            {
+                "question": "Which of these is NOT one of the Unforgivable Curses?",
+                "choices": [
+                    "Avada Kedavra",
+                    "Crucio",
+                    "Imperio",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Sectumsempra"
+            },
+            {
+                "question": "Which professor teaches Divination at Hogwarts?",
+                "choices": [
+                    "Professor Trelawney",
+                    "Professor Firenze",
+                    "Professor Hooch",
+                    "Professor Flitwick"
+                ],
+                "correct_answer": "Professor Trelawney"
+            },
+            {
+                "question": "What is the name of the plant that screams when uprooted?",
+                "choices": [
+                    "Mandrake",
+                    "Devil's Snare",
+                    "Screaming Snapdragon",
+                    "Bubotuber"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What does S.P.E.W. stand for?",
+                "choices": [
+                    "Society for the Protection of Elfish Welfare",
+                    "Society for the Promotion of Elfish Welfare",
+                    "Society for the Protection of Elf Welfare",
+                    "Society for the Promotion of Elf Welfare"
+                ],
+                "correct_answer": "Society for the Promotion of Elfish Welfare"
+            },
+            {
+                "question": "Which potion requires the user to speak only the truth?",
+                "choices": [
+                    "Felix Felicis",
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Amortentia"
+                ],
+                "correct_answer": "Veritaserum"
+            },
+            {
+                "question": "Who is the Half-Blood Prince?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Tom Riddle",
+                    "Severus Snape",
+                    "Harry Potter"
+                ],
+                "correct_answer": "Severus Snape"
+            },
+            {
+                "question": "What is the name of the village near Hogwarts?",
+                "choices": [
+                    "Hogsmeade",
+                    "Godric's Hollow",
+                    "Little Whinging",
+                    "Ottery St. Catchpole"
+                ],
+                "correct_answer": "Hogsmeade"
+            },
+            {
+                "question": "What is the name of the tree that attacks anything that gets too close?",
+                "choices": [
+                    "Whomping Willow",
+                    "Wailing Willow",
+                    "Weeping Willow",
+                    "Walloping Willow"
+                ],
+                "correct_answer": "Whomping Willow"
+            },
+            {
+                "question": "What is the name of the Weasley family's owl?",
+                "choices": [
+                    "Errol",
+                    "Hedwig",
+                    "Pigwidgeon",
+                    "Crookshanks"
+                ],
+                "correct_answer": "Errol"
+            },
+            {
+                "question": "What does the spell 'Obliviate' do?",
+                "choices": [
+                    "Causes forgetfulness",
+                    "Erase memories",
+                    "Make objects invisible",
+                    "Create a barrier"
+                ],
+                "correct_answer": "Erase memories"
+            },
+            {
+                "question": "What is the magical item that lets Harry travel back in time?",
+                "choices": [
+                    "Time-Turner",
+                    "Remembrall",
+                    "Invisibility Cloak",
+                    "Resurrection Stone"
+                ],
+                "correct_answer": "Time-Turner"
+            },
+            {
+                "question": "What is the name of the bank run by goblins?",
+                "choices": [
+                    "Gringotts",
+                    "Goblin's Gold",
+                    "WizBank",
+                    "Galleon Grasp"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "What is the name of the magical creature that can transform into a person's worst fear?",
+                "choices": [
+                    "Dementor",
+                    "Boggart",
+                    "Grindylow",
+                    "Kappa"
+                ],
+                "correct_answer": "Boggart"
+            },
+            {
+                "question": "What is the incantation used to repel Dementors?",
+                "choices": [
+                    "Riddikulus",
+                    "Expelliarmus",
+                    "Expecto Patronum",
+                    "Stupefy"
+                ],
+                "correct_answer": "Expecto Patronum"
+            },
+            {
+                "question": "What type of creature is an 'Occamy'?",
+                "choices": [
+                    "Bird-Snake hybrid",
+                    "Half-human, half-horse",
+                    "Giant spider",
+                    "Giant serpent"
+                ],
+                "correct_answer": "Bird-Snake hybrid"
+            },
+            {
+                "question": "What is the name of the secret organization that opposes Voldemort?",
+                "choices": [
+                    "The Marauders",
+                    "The Order of the Phoenix",
+                    "The Death Eaters",
+                    "The Golden Trio"
+                ],
+                "correct_answer": "The Order of the Phoenix"
+            },
+            {
+                "question": "Which Defense Against the Dark Arts teacher was a werewolf?",
+                "choices": [
+                    "Remus Lupin",
+                    "Barty Crouch Jr.",
+                    "Gilderoy Lockhart",
+                    "Quirinus Quirrell"
+                ],
+                "correct_answer": "Remus Lupin"
+            },
+            {
+                "question": "What magical device was used by the Weasley twins to create a portable swamp?",
+                "choices": [
+                    "Swamp Box",
+                    "Extendable Ears",
+                    "Decoy Detonator",
+                    "Peruvian Instant Darkness Powder"
+                ],
+                "correct_answer": "Swamp Box"
+            },
+            {
+                "question": "What creature guarded the entrance to the Slytherin common room?",
+                "choices": [
+                    "A giant serpent",
+                    "A sphinx",
+                    "A basilisk",
+                    "A mermaid"
+                ],
+                "correct_answer": "A giant serpent"
+            },
+            {
+                "question": "What magical plant is used to revive someone who has been petrified?",
+                "choices": [
+                    "Gillyweed",
+                    "Mandrake",
+                    "Wolfsbane",
+                    "Devil's Snare"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What does the spell 'Alohomora' do?",
+                "choices": [
+                    "Unlocks doors",
+                    "Summons objects",
+                    "Levitates objects",
+                    "Creates light"
+                ],
+                "correct_answer": "Unlocks doors"
+            },
+            {
+                "question": "Who was the ghost of Ravenclaw house?",
+                "choices": [
+                    "The Bloody Baron",
+                    "Nearly Headless Nick",
+                    "The Grey Lady",
+                    "The Fat Friar"
+                ],
+                "correct_answer": "The Grey Lady"
+            },
+            {
+                "question": "What is the name of the room that only appears when someone is in dire need of it?",
+                "choices": [
+                    "The Room of Requirement",
+                    "The Chamber of Secrets",
+                    "The Shrieking Shack",
+                    "The Forbidden Corridor"
+                ],
+                "correct_answer": "The Room of Requirement"
+            },
+            {
+                "question": "What is the name of the innkeeper at the Leaky Cauldron?",
+                "choices": [
+                    "Tom",
+                    "Sam",
+                    "Jim",
+                    "Dave"
+                ],
+                "correct_answer": "Tom"
+            },
+            {
+                "question": "Which character did J.K. Rowling say was a 'failed' Horcrux?",
+                "choices": [
+                    "Nagini",
+                    "Harry Potter",
+                    "The Sorting Hat",
+                    "Ravenclaw's Diadem"
+                ],
+                "correct_answer": "Harry Potter"
+            },
+            {
+                "question": "Who did Hermione impersonate using Polyjuice Potion in 'The Deathly Hallows'?",
+                "choices": [
+                    "Bellatrix Lestrange",
+                    "Narcissa Malfoy",
+                    "Fleur Delacour",
+                    "Luna Lovegood"
+                ],
+                "correct_answer": "Bellatrix Lestrange"
+            },
+            {
+                "question": "What is the name of the dragon breed that Hagrid illegally hatches in the first book?",
+                "choices": [
+                    "Hungarian Horntail",
+                    "Chinese Fireball",
+                    "Swedish Short-Snout",
+                    "Norwegian Ridgeback"
+                ],
+                "correct_answer": "Norwegian Ridgeback"
+            },
+            {
+                "question": "What is the name of the potion that grants the drinker good luck?",
+                "choices": [
+                    "Felix Felicis",
+                    "Amortentia",
+                    "Polyjuice Potion",
+                    "Veritaserum"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the potion that cures the effects of a Basilisk's gaze?",
+                "choices": [
+                    "Mandrake Restorative Draught",
+                    "Essence of Dittany",
+                    "Wolfsbane Potion",
+                    "Skele-Gro"
+                ],
+                "correct_answer": "Mandrake Restorative Draught"
+            },
+            {
+                "question": "What creature did Dumbledore keep as a pet?",
+                "choices": [
+                    "Niffler",
+                    "Phoenix",
+                    "Thestral",
+                    "Hippogriff"
+                ],
+                "correct_answer": "Phoenix"
+            },
+            {
+                "question": "What is the name of the Wizarding prison?",
+                "choices": [
+                    "Nurmengard",
+                    "Azkaban",
+                    "Askaban",
+                    "Grindelwald's Fortress"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What kind of creature is Fawkes?",
+                "choices": [
+                    "Phoenix",
+                    "Hippogriff",
+                    "Thestral",
+                    "Basilisk"
+                ],
+                "correct_answer": "Phoenix"
+            },
+            {
+                "question": "What was Ron's fake identity while infiltrating the Ministry of Magic in 'The Deathly Hallows'?",
+                "choices": [
+                    "Reg Cattermole",
+                    "Albert Runcorn",
+                    "Dirk Cresswell",
+                    "Pius Thicknesse"
+                ],
+                "correct_answer": "Reg Cattermole"
+            },
+            {
+                "question": "Which of these spells is a shielding charm?",
+                "choices": [
+                    "Protego",
+                    "Expulso",
+                    "Sectumsempra",
+                    "Confringo"
+                ],
+                "correct_answer": "Protego"
+            },
+            {
+                "question": "Which Ministry of Magic employee had to modify the memories of Muggle Prime Minister's secretary?",
+                "choices": [
+                    "Kingsley Shacklebolt",
+                    "Arthur Weasley",
+                    "Percy Weasley",
+                    "Barty Crouch Jr."
+                ],
+                "correct_answer": "Kingsley Shacklebolt"
+            },
+            {
+                "question": "Which Gringotts vault was the Sorcerer's Stone kept in?",
+                "choices": [
+                    "687",
+                    "713",
+                    "634",
+                    "756"
+                ],
+                "correct_answer": "713"
+            },
+            {
+                "question": "What is the name of the charm that makes objects disappear?",
+                "choices": [
+                    "Evanesco",
+                    "Vanishing Charm",
+                    "Disillusionment Charm",
+                    "Invisibility Charm"
+                ],
+                "correct_answer": "Evanesco"
+            },
+            {
+                "question": "What is the incantation for creating a Patronus?",
+                "choices": [
+                    "Expecto Patronum",
+                    "Protego Patronus",
+                    "Patronus Charm",
+                    "Patronum Exspecto"
+                ],
+                "correct_answer": "Expecto Patronum"
+            },
+            {
+                "question": "What did Neville Longbottom's grandmother give him as a gift, which later helped him in a crucial moment?",
+                "choices": [
+                    "A Remembrall",
+                    "A Mimbulus Mimbletonia",
+                    "A Howler",
+                    "A beaded purse"
+                ],
+                "correct_answer": "A Mimbulus Mimbletonia"
+            },
+            {
+                "question": "What is the incantation for the Shield Charm?",
+                "choices": [
+                    "Protego",
+                    "Aegis",
+                    "Defendo",
+                    "Repello"
+                ],
+                "correct_answer": "Protego"
+            },
+            {
+                "question": "What was the name of the person who sold the Riddle family's house to the Gaunts?",
+                "choices": [
+                    "Frank Bryce",
+                    "Alphard Black",
+                    "Marvolo Gaunt",
+                    "Willy Widdershins"
+                ],
+                "correct_answer": "Frank Bryce"
+            },
+            {
+                "question": "Which of these creatures is not classified as a Dark creature?",
+                "choices": [
+                    "Niffler",
+                    "Blast-Ended Skrewt",
+                    "Manticore",
+                    "Erkling"
+                ],
+                "correct_answer": "Niffler"
+            },
+            {
+                "question": "What is the incantation for the Gouging Spell?",
+                "choices": [
+                    "Defodio",
+                    "Excorio",
+                    "Tergeo",
+                    "Glisseo"
+                ],
+                "correct_answer": "Defodio"
+            },
+            {
+                "question": "What is the name of the potion that grants good luck?",
+                "choices": [
+                    "Felix Felicis",
+                    "Elixir of Life",
+                    "Draught of Peace",
+                    "Polyjuice Potion"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "Who was the original owner of the Elder Wand?",
+                "choices": [
+                    "Gellert Grindelwald",
+                    "Antioch Peverell",
+                    "Albus Dumbledore",
+                    "Death"
+                ],
+                "correct_answer": "Antioch Peverell"
+            },
+            {
+                "question": "What is the name of the Weasley family's owl?",
+                "choices": [
+                    "Errol",
+                    "Hedwig",
+                    "Pigwidgeon",
+                    "Crookshanks"
+                ],
+                "correct_answer": "Errol"
+            },
+            {
+                "question": "What was the name of the organization that Harry, Ron, and Hermione started in their fifth year?",
+                "choices": [
+                    "Order of the Phoenix",
+                    "Dumbledore's Army",
+                    "Hogwarts United",
+                    "Defence Club"
+                ],
+                "correct_answer": "Dumbledore's Army"
+            },
+            {
+                "question": "What is the name of the Muggle Studies teacher at Hogwarts during Harry's fifth year?",
+                "choices": [
+                    "Aurora Sinistra",
+                    "Charity Burbage",
+                    "Septima Vector",
+                    "Pomona Sprout"
+                ],
+                "correct_answer": "Charity Burbage"
+            },
+            {
+                "question": "Who was the Hogwarts caretaker before Argus Filch?",
+                "choices": [
+                    "Apollyon Pringle",
+                    "Hankerton Humble",
+                    "Rancorous Carpe",
+                    "Ogg"
+                ],
+                "correct_answer": "Apollyon Pringle"
+            },
+            {
+                "question": "What is the name of the pub in Hogsmeade where Madam Rosmerta works?",
+                "choices": [
+                    "The Hog's Head",
+                    "The Leaky Cauldron",
+                    "The Three Broomsticks",
+                    "The Shrieking Shack"
+                ],
+                "correct_answer": "The Three Broomsticks"
+            },
+            {
+                "question": "Which spell is used to reveal the Marauder's Map?",
+                "choices": [
+                    "Alohomora",
+                    "Lumos",
+                    "I solemnly swear that I am up to no good",
+                    "Mischief Managed"
+                ],
+                "correct_answer": "I solemnly swear that I am up to no good"
+            },
+            {
+                "question": "What does the acronym S.P.E.W. stand for?",
+                "choices": [
+                    "Society for the Promotion of Elfish Welfare",
+                    "Society for the Protection of Elfish Welfare",
+                    "Society for the Promotion of Elvish Welfare",
+                    "Society for the Protection of Elvish Welfare"
+                ],
+                "correct_answer": "Society for the Promotion of Elfish Welfare"
+            },
+            {
+                "question": "What magical creature is said to have the power to heal a person bitten by a werewolf?",
+                "choices": [
+                    "Niffler",
+                    "Kneazle",
+                    "Griffin",
+                    "Lethifold"
+                ],
+                "correct_answer": "Lethifold"
+            },
+            {
+                "question": "What magical plant is used to revive people who have been petrified?",
+                "choices": [
+                    "Mandrake",
+                    "Gillyweed",
+                    "Wolfsbane",
+                    "Dittany"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What subject does Professor Grubbly-Plank teach when Hagrid is away?",
+                "choices": [
+                    "Potions",
+                    "Charms",
+                    "Transfiguration",
+                    "Care of Magical Creatures"
+                ],
+                "correct_answer": "Care of Magical Creatures"
+            },
+            {
+                "question": "Which book does Hermione borrow from Professor Lockhart to learn about Polyjuice Potion?",
+                "choices": [
+                    "Magical Me",
+                    "Gadding with Ghouls",
+                    "Most Potent Potions",
+                    "The Dark Arts Outsmarted"
+                ],
+                "correct_answer": "Most Potent Potions"
+            },
+            {
+                "question": "What is the name of the potion that allows a person to change their appearance to look like someone else?",
+                "choices": [
+                    "Amortentia",
+                    "Polyjuice Potion",
+                    "Felix Felicis",
+                    "Veritaserum"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the magical creature that can transform itself into a person's worst fear?",
+                "choices": [
+                    "Boggart",
+                    "Dementor",
+                    "Basilisk",
+                    "Thestral"
+                ],
+                "correct_answer": "Boggart"
+            },
+            {
+                "question": "Which wizard founded the Order of the Phoenix?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Minerva McGonagall",
+                    "Kingsley Shacklebolt",
+                    "Sirius Black"
+                ],
+                "correct_answer": "Albus Dumbledore"
+            },
+            {
+                "question": "What is the incantation for the curse that causes the victim to suffer unbearable pain?",
+                "choices": [
+                    "Imperio",
+                    "Avada Kedavra",
+                    "Crucio",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Crucio"
+            },
+            {
+                "question": "Which magical creature is reputed to bring good fortune to the one who sees it?",
+                "choices": [
+                    "Niffler",
+                    "Thestral",
+                    "Crup",
+                    "Demiguise"
+                ],
+                "correct_answer": "Demiguise"
+            },
+            {
+                "question": "What is the name of the wizarding prison guarded by Dementors?",
+                "choices": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the incantation to summon an object?",
+                "choices": [
+                    "Accio",
+                    "Evanesco",
+                    "Reducto",
+                    "Wingardium Leviosa"
+                ],
+                "correct_answer": "Accio"
+            },
+            {
+                "question": "Which Horcrux was destroyed by Hermione using a Basilisk fang?",
+                "choices": [
+                    "Marvolo Gaunt's Ring",
+                    "Salazar Slytherin's Locket",
+                    "Helga Hufflepuff's Cup",
+                    "Rowena Ravenclaw's Diadem"
+                ],
+                "correct_answer": "Salazar Slytherin's Locket"
+            },
+            {
+                "question": "Who was the author of 'Magical Me'?",
+                "choices": [
+                    "Gilderoy Lockhart",
+                    "Quirinus Quirrell",
+                    "Severus Snape",
+                    "Rita Skeeter"
+                ],
+                "correct_answer": "Gilderoy Lockhart"
+            },
+            {
+                "question": "What does the spell 'Episkey' do?",
+                "choices": [
+                    "Heals minor injuries",
+                    "Unlocks doors",
+                    "Makes objects float",
+                    "Protects against Dementors"
+                ],
+                "correct_answer": "Heals minor injuries"
+            },
+            {
+                "question": "In 'The Half-Blood Prince,' what is the name of the student who is accidentally cursed by Harry?",
+                "choices": [
+                    "Cormac McLaggen",
+                    "Blaise Zabini",
+                    "Marcus Belby",
+                    "Draco Malfoy"
+                ],
+                "correct_answer": "Draco Malfoy"
+            },
+            {
+                "question": "What potion did Harry use to get Slughorn's true memory?",
+                "choices": [
+                    "Felix Felicis",
+                    "Veritaserum",
+                    "Polyjuice Potion",
+                    "Amortentia"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "Which Death Eater killed Fred Weasley?",
+                "choices": [
+                    "Bellatrix Lestrange",
+                    "Augustus Rookwood",
+                    "Fenrir Greyback",
+                    "Antonin Dolohov"
+                ],
+                "correct_answer": "Augustus Rookwood"
+            },
+            {
+                "question": "What is the name of the Lovegood family's magazine?",
+                "choices": [
+                    "The Quibbler",
+                    "The Daily Prophet",
+                    "The Witch Weekly",
+                    "The Wizarding Times"
+                ],
+                "correct_answer": "The Quibbler"
+            },
+            {
+                "question": "What is the name of the organization formed by Hermione to promote house-elf rights?",
+                "choices": [
+                    "S.P.E.W.",
+                    "E.L.F.",
+                    "P.A.W.",
+                    "F.R.E.E."
+                ],
+                "correct_answer": "S.P.E.W."
+            },
+            {
+                "question": "What is the name of the shop in Diagon Alley that sells magical instruments?",
+                "choices": [
+                    "Wiseacre's Wizarding Equipment",
+                    "Flourish and Blotts",
+                    "Weasleys' Wizard Wheezes",
+                    "Ollivanders"
+                ],
+                "correct_answer": "Wiseacre's Wizarding Equipment"
+            },
+            {
+                "question": "What is the name of the spell that makes objects fly?",
+                "choices": [
+                    "Wingardium Leviosa",
+                    "Alohomora",
+                    "Accio",
+                    "Lumos"
+                ],
+                "correct_answer": "Wingardium Leviosa"
+            },
+            {
+                "question": "Which Hogwarts professor was a member of the Order of the Phoenix and later revealed to be a werewolf?",
+                "choices": [
+                    "Remus Lupin",
+                    "Alastor Moody",
+                    "Severus Snape",
+                    "Minerva McGonagall"
+                ],
+                "correct_answer": "Remus Lupin"
+            },
+            {
+                "question": "What is the name of the potion that grants luck to the drinker?",
+                "choices": [
+                    "Felix Felicis",
+                    "Amortentia",
+                    "Polyjuice Potion",
+                    "Veritaserum"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the newspaper that publishes Rita Skeeter's articles?",
+                "choices": [
+                    "The Daily Prophet",
+                    "The Quibbler",
+                    "The Witch Weekly",
+                    "The Wizarding Times"
+                ],
+                "correct_answer": "The Daily Prophet"
+            },
+            {
+                "question": "What is the name of the centaur that helps Harry and Hermione in 'The Order of the Phoenix'?",
+                "choices": [
+                    "Fang",
+                    "Grawp",
+                    "Bane",
+                    "Firenze"
+                ],
+                "correct_answer": "Firenze"
+            },
+            {
+                "question": "What is the name of the group of witches and wizards who oppose Lord Voldemort and his Death Eaters?",
+                "choices": [
+                    "The Aurors",
+                    "The Ministry of Magic",
+                    "The Order of the Phoenix",
+                    "The Death Eaters"
+                ],
+                "correct_answer": "The Order of the Phoenix"
+            },
+            {
+                "question": "What is the name of the magical object that can transport a person instantly to any location?",
+                "choices": [
+                    "The Floo Powder",
+                    "The Time-Turner",
+                    "The Portkey",
+                    "The Apparition"
+                ],
+                "correct_answer": "The Portkey"
+            },
+            {
+                "question": "What is the name of the spell that creates a shield around the caster to deflect hexes and curses?",
+                "choices": [
+                    "Protego",
+                    "Expelliarmus",
+                    "Expecto Patronum",
+                    "Stupefy"
+                ],
+                "correct_answer": "Protego"
+            },
+            {
+                "question": "What is the name of the dragon that Hagrid brings to Hogwarts in 'The Goblet of Fire'?",
+                "choices": [
+                    "Smaug",
+                    "Norbert",
+                    "Vipertooth",
+                    "Hungarian Horntail"
+                ],
+                "correct_answer": "Hungarian Horntail"
+            },
+            {
+                "question": "What is the name of the group of students that Harry forms to teach them Defense Against the Dark Arts in 'The Order of the Phoenix'?",
+                "choices": [
+                    "The Dumbledore's Army",
+                    "The Weasley's Warriors",
+                    "The Gryffindor Guard",
+                    "The Hufflepuff Heroes"
+                ],
+                "correct_answer": "The Dumbledore's Army"
+            },
+            {
+                "question": "What is the name of the object that Dumbledore leaves in his will for Harry?",
+                "choices": [
+                    "The Elder Wand",
+                    "The Resurrection Stone",
+                    "The Invisibility Cloak",
+                    "The Marauder's Map"
+                ],
+                "correct_answer": "The Golden Snitch"
+            },
+            {
+                "question": "What is the name of the wizarding bank in London where Harry and his friends break into in 'The Deathly Hallows'?",
+                "choices": [
+                    "Gringotts",
+                    "The Ministry of Magic",
+                    "Hogwarts School of Witchcraft and Wizardry",
+                    "St. Mungo's Hospital for Magical Maladies and Injuries"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "What is the name of the Weasley family's pet rat, who was actually a wizard in disguise?",
+                "choices": [
+                    "Wormtail",
+                    "Scabbers",
+                    "Fang",
+                    "Crookshanks"
+                ],
+                "correct_answer": "Scabbers"
+            },
+            {
+                "question": "What is the name of the spell that creates an image of the caster to confuse and distract their enemies?",
+                "choices": [
+                    "Confundo",
+                    "Expelliarmus",
+                    "Impedimenta",
+                    "Protean Charm"
+                ],
+                "correct_answer": "The Draught of Living"
+            },
+            {
+                "question": "What is the name of the potion that is used to detect lies?",
+                "choices": [
+                    "Veritaserum",
+                    "Polyjuice Potion",
+                    "Draught of Living Death",
+                    "Felix Felicis"
+                ],
+                "correct_answer": "Veritaserum"
+            },
+            {
+                "question": "What is the name of the spell used to disarm an opponent?",
+                "choices": [
+                    "Expelliarmus",
+                    "Alohomora",
+                    "Avada Kedavra",
+                    "Expecto Patronum"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "What is the name of the wizarding prison?",
+                "choices": [
+                    "Azkaban",
+                    "Hogwarts",
+                    "Beauxbatons",
+                    "Durmstrang"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the headmaster of Hogwarts during Harry's time at the school?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Severus Snape",
+                    "Minerva McGonagall",
+                    "Rubeus Hagrid"
+                ],
+                "correct_answer": "Albus Dumbledore"
+            },
+            {
+                "question": "What is the name of the room in Hogwarts that appears only when someone needs it?",
+                "choices": [
+                    "The Room of Requirement",
+                    "The Forbidden Forest",
+                    "The Great Hall",
+                    "The Chamber of Secrets"
+                ],
+                "correct_answer": "The Room of Requirement"
+            },
+            {
+                "question": "What is the name of the potion that grants the drinker luck for a period of time?",
+                "choices": [
+                    "Felix Felicis",
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Draught of Living Death"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the plant that screams when it is uprooted?",
+                "choices": [
+                    "Mimbulus Mimbletonia",
+                    "Devil's Snare",
+                    "Mandrake",
+                    "Whomping Willow"
+                ],
+                "correct_answer": "Mimbulus Mimbletonia"
+            },
+            {
+                "question": "What is the name of the wizarding hospital?",
+                "choices": [
+                    "St. Mungo's",
+                    "Hogwarts",
+                    "Beauxbatons",
+                    "Durmstrang"
+                ],
+                "correct_answer": "St. Mungo's"
+            },
+            {
+                "question": "What is the name of the wizarding bank?",
+                "choices": [
+                    "Gringotts",
+                    "Hogwarts",
+                    "Beauxbatons",
+                    "Durmstrang"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "What is the name of the magical contract that cannot be broken?",
+                "choices": [
+                    "Unbreakable Vow",
+                    "Magical Oath",
+                    "Blood Pact",
+                    "Fidelius Charm"
+                ],
+                "correct_answer": "Unbreakable Vow"
+            },
+            {
+                "question": "What is the name of the bank where wizards keep their money?",
+                "choices": [
+                    "Gringotts",
+                    "Vaults of Valhalla",
+                    "Goblin Bank",
+                    "Fairy Bank"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "What is the name of the Gryffindor house ghost?",
+                "choices": [
+                    "The Grey Lady",
+                    "Nearly Headless Nick",
+                    "The Fat Friar",
+                    "The Bloody Baron"
+                ],
+                "correct_answer": "Nearly Headless Nick"
+            },
+            {
+                "question": "What is the name of the house-elf who served the Black family?",
+                "choices": [
+                    "Kreacher",
+                    "Dobby",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the spell used to disarm an opponent?",
+                "choices": [
+                    "Stupefy",
+                    "Expelliarmus",
+                    "Impedimenta",
+                    "Protego"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "What is the name of Hagrid's giant half-brother?",
+                "choices": [
+                    "Grawp",
+                    "Grawm",
+                    "Grimp",
+                    "Grump"
+                ],
+                "correct_answer": "Grawp"
+            },
+            {
+                "question": "What is the name of the wizard prison guarded by dementors?",
+                "choices": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the wizarding school in the United States?",
+                "choices": [
+                    "Ilvermorny",
+                    "Beauxbatons",
+                    "Durmstrang",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Ilvermorny"
+            },
+            {
+                "question": "What is the name of the elf who betrays Harry to Voldemort in 'The Goblet of Fire'?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Winky"
+            },
+            {
+                "question": "What is the name of the head of the Department of Magical Law Enforcement in the Ministry of Magic?",
+                "choices": [
+                    "Cornelius Fudge",
+                    "Amelia Bones",
+                    "Percy Weasley",
+                    "Barty Crouch Sr."
+                ],
+                "correct_answer": "Amelia Bones"
+            },
+            {
+                "question": "What is the name of the magical creature that can only be seen by those who have witnessed death?",
+                "choices": [
+                    "Thestral",
+                    "Hippogriff",
+                    "Acromantula",
+                    "Basilisk"
+                ],
+                "correct_answer": "Thestral"
+            },
+            {
+                "question": "What is the name of the Weasley family's owl?",
+                "choices": [
+                    "Errol",
+                    "Hedwig",
+                    "Pigwidgeon",
+                    "Crookshanks"
+                ],
+                "correct_answer": "Errol"
+            },
+            {
+                "question": "What is the name of the magical plant that will scream when touched?",
+                "choices": [
+                    "Mandrake",
+                    "Devil's Snare",
+                    "Flitterbloom",
+                    "Gillyweed"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What is the name of the incantation that causes objects to fly towards the caster?",
+                "choices": [
+                    "Accio",
+                    "Alohomora",
+                    "Crucio",
+                    "Avada Kedavra"
+                ],
+                "correct_answer": "Accio"
+            },
+            {
+                "question": "What is the name of the dragon that Hagrid hatches in 'The Philosopher's Stone'?",
+                "choices": [
+                    "Norbert",
+                    "Smaug",
+                    "Falkor",
+                    "Drogon"
+                ],
+                "correct_answer": "Norbert"
+            },
+            {
+                "question": "What is the name of the ancient and powerful wizard who is believed to be the only one to have ever owned all three Deathly Hallows?",
+                "choices": [
+                    "Salazar Slytherin",
+                    "Albus Dumbledore",
+                    "Merlin",
+                    "Ignotus Peverell"
+                ],
+                "correct_answer": "Ignotus Peverell"
+            },
+            {
+                "question": "What is the name of the Slytherin student who gets petrified in 'Chamber of Secrets'?",
+                "choices": [
+                    "Millicent Bulstrode",
+                    "Pansy Parkinson",
+                    "Daphne Greengrass",
+                    "Tracey Davis"
+                ],
+                "correct_answer": "Millicent Bulstrode"
+            },
+            {
+                "question": "What is the name of the magical plant that can be used to revive someone from a petrified state?",
+                "choices": [
+                    "Mimbulus Mimbletonia",
+                    "Gillyweed",
+                    "Mandrake",
+                    "Devil's Snare"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+                "choices": [
+                    "Griphook",
+                    "Gornuk",
+                    "Ragnok",
+                    "Bogrod"
+                ],
+                "correct_answer": "Griphook"
+            },
+            {
+                "question": "What is the name of the curse that Dumbledore uses to destroy Marvolo Gaunt's ring?",
+                "choices": [
+                    "Avada Kedavra",
+                    "Crucio",
+                    "Sectumsempra",
+                    "Fiendfyre"
+                ],
+                "correct_answer": "Fiendfyre"
+            },
+            {
+                "question": "What is the name of the spell used to extinguish fires?",
+                "choices": [
+                    "Incendio",
+                    "Aguamenti",
+                    "Confringo",
+                    "Finite Incantatem"
+                ],
+                "correct_answer": "Aguamenti"
+            },
+            {
+                "question": "What is the name of the witch who was the original owner of the locket Horcrux?",
+                "choices": [
+                    "Merope Gaunt",
+                    "Bellatrix Lestrange",
+                    "Ariana Dumbledore",
+                    "Marvolo Gaunt"
+                ],
+                "correct_answer": "Merope Gaunt"
+            },
+            {
+                "question": "What is the name of the wizard who created the Sorcerer's Stone?",
+                "choices": [
+                    "Nicolas Flamel",
+                    "Albus Dumbledore",
+                    "Gellert Grindelwald",
+                    "Phineas Nigellus Black"
+                ],
+                "correct_answer": "Nicolas Flamel"
+            },
+            {
+                "question": "What is the name of the Hufflepuff ghost?",
+                "choices": [
+                    "Bloody Baron",
+                    "The Fat Friar",
+                    "Grey Lady",
+                    "The Fat Lady"
+                ],
+                "correct_answer": "The Fat Friar"
+            },
+            {
+                "question": "What is the name of the Muggle family that takes in Harry after his parents' deaths?",
+                "choices": [
+                    "The Dursleys",
+                    "The Grangers",
+                    "The Potters",
+                    "The Longbottoms"
+                ],
+                "correct_answer": "The Dursleys"
+            },
+            {
+                "question": "What is the name of the magical creature that lives in the lake at Hogwarts?",
+                "choices": [
+                    "Merpeople",
+                    "Grindylows",
+                    "Giant Squid",
+                    "Kelpie"
+                ],
+                "correct_answer": "Merpeople"
+            },
+            {
+                "question": "What is the name of the founder of the Department of Mysteries?",
+                "choices": [
+                    "Garrick Ollivander",
+                    "Phineas Nigellus Black",
+                    "Augustus Rookwood",
+                    "Perenelle Flamel"
+                ],
+                "correct_answer": "Perenelle Flamel"
+            },
+            {
+                "question": "What is the name of the Weasley family owl?",
+                "choices": [
+                    "Errol",
+                    "Pigwidgeon",
+                    "Hedwig",
+                    "Crookshanks"
+                ],
+                "correct_answer": "Errol"
+            },
+            {
+                "question": "What is the name of the young boy who appears to be Draco Malfoy's protégé?",
+                "choices": [
+                    "Vincent Crabbe",
+                    "Gregory Goyle",
+                    "Blaise Zabini",
+                    "Marcus Flint"
+                ],
+                "correct_answer": "Blaise Zabini"
+            },
+            {
+                "question": "What is the name of the Quidditch player who is the captain of the Irish National Team?",
+                "choices": [
+                    "Aidan Lynch",
+                    "Krum Viktor",
+                    "Ludo Bagman",
+                    "Oliver Wood"
+                ],
+                "correct_answer": "Aidan Lynch"
+            },
+            {
+                "question": "What is the name of the magical creature that can transform itself into a ball of light?",
+                "choices": [
+                    "Banshee",
+                    "Dementor",
+                    "Hinkypunk",
+                    "Grindylow"
+                ],
+                "correct_answer": "Hinkypunk"
+            },
+            {
+                "question": "What is the name of the portrait of the Fat Lady's friend who guards Gryffindor Tower in 'The Order of the Phoenix'?",
+                "choices": [
+                    "Viola",
+                    "Cordelia",
+                    "Helena",
+                    "Eleanor"
+                ],
+                "correct_answer": "Viola"
+            },
+            {
+                "question": "What is the name of the school that Viktor Krum attends in Bulgaria?",
+                "choices": [
+                    "Durmstrang",
+                    "Beauxbatons",
+                    "Hogwarts",
+                    "Ilvermorny"
+                ],
+                "correct_answer": "Durmstrang"
+            },
+            {
+                "question": "What is the name of the magical object that reveals the location of its owner?",
+                "choices": [
+                    "Invisibility Cloak",
+                    "Marauder's Map",
+                    "Sneakoscope",
+                    "Deluminator"
+                ],
+                "correct_answer": "Marauder's Map"
+            },
+            {
+                "question": "What is the name of the Black family house elf?",
+                "choices": [
+                    "Kreacher",
+                    "Dobby",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the spell used to control the actions of another person?",
+                "choices": [
+                    "Crucio",
+                    "Imperio",
+                    "Avada Kedavra",
+                    "Expelliarmus"
+                ],
+                "correct_answer": "Imperio"
+            },
+            {
+                "question": "What was the name of the house-elf who betrayed Harry, Ron, and Hermione to Bellatrix Lestrange?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Mundungus Fletcher"
+            },
+            {
+                "question": "What is the name of the place where Dumbledore and Grindelwald dueled, leading to Ariana Dumbledore's death?",
+                "choices": [
+                    "The Shrieking Shack",
+                    "The Chamber of Secrets",
+                    "The Forbidden Forest",
+                    "The Cliff of Insanity"
+                ],
+                "correct_answer": "The Hill of Wandlight"
+            },
+            {
+                "question": "What did the Marauder's Map show when Harry tried to find Severus Snape?",
+                "choices": [
+                    "Snape was at Hogwarts",
+                    "Snape was at Hogsmeade",
+                    "Snape was in the Forbidden Forest",
+                    "Snape was in the Ministry of Magic"
+                ],
+                "correct_answer": "The map didn't show Snape at all"
+            },
+            {
+                "question": "What is the name of the magical item that allows the user to travel through time?",
+                "choices": [
+                    "Time-Turner",
+                    "Time-Twister",
+                    "Time-Tweaker",
+                    "Time-Turnaround"
+                ],
+                "correct_answer": "Time-Turner"
+            },
+            {
+                "question": "What is the name of the werewolf who bit Bill Weasley?",
+                "choices": [
+                    "Fenrir Greyback",
+                    "Remus Lupin",
+                    "Barty Crouch Jr.",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": "Fenrir Greyback"
+            },
+            {
+                "question": "What was the name of the potion that allowed the drinker to take on the appearance of another person?",
+                "choices": [
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Amortentia",
+                    "Felix Felicis"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the plant that can be used as an antidote to most poisons?",
+                "choices": [
+                    "Mimbulus Mimbletonia",
+                    "Gillyweed",
+                    "Mandrake",
+                    "Bezoar"
+                ],
+                "correct_answer": "Bezoar"
+            },
+            {
+                "question": "What is the name of the spell used to create a physical copy of an object?",
+                "choices": [
+                    "Reparo",
+                    "Impervius",
+                    "Gemino",
+                    "Incendio"
+                ],
+                "correct_answer": "Gemino"
+            },
+            {
+                "question": "What is the name of the potion that allows the drinker to see the future?",
+                "choices": [
+                    "Veritaserum",
+                    "Amortentia",
+                    "Felix Felicis",
+                    "Skele-Gro"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the centaur who helps Harry in 'The Sorcerer's Stone'?",
+                "choices": [
+                    "Firenze",
+                    "Bane",
+                    "Magorian",
+                    "Ronan"
+                ],
+                "correct_answer": "Firenze"
+            },
+            {
+                "question": "What is the name of the spell used to open doors?",
+                "choices": [
+                    "Alohomora",
+                    "Avada Kedavra",
+                    "Accio",
+                    "Expelliarmus"
+                ],
+                "correct_answer": "Alohomora"
+            },
+            {
+                "question": "What is the name of the elf who serves the Malfoy family?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the curse used to torture the Longbottoms?",
+                "choices": [
+                    "Cruciatus Curse",
+                    "Imperius Curse",
+                    "Avada Kedavra",
+                    "Diffindo"
+                ],
+                "correct_answer": "Cruciatus Curse"
+            },
+            {
+                "question": "What is the name of the magical plant that screams when uprooted?",
+                "choices": [
+                    "Mimbulus Mimbletonia",
+                    "Devil's Snare",
+                    "Venomous Tentacula",
+                    "Whomping Willow"
+                ],
+                "correct_answer": "Mimbulus Mimbletonia"
+            },
+            {
+                "question": "What is the name of the potion that causes the drinker to fall in love?",
+                "choices": [
+                    "Felix Felicis",
+                    "Veritaserum",
+                    "Amortentia",
+                    "Polyjuice Potion"
+                ],
+                "correct_answer": "Amortentia"
+            },
+            {
+                "question": "What is the name of the prison where Azkaban guards the wizarding world's worst criminals?",
+                "choices": [
+                    "The Tower",
+                    "The Citadel",
+                    "The Fortress",
+                    "The Island"
+                ],
+                "correct_answer": "The Island"
+            },
+            {
+                "question": "What is the name of the werewolf who is in love with Tonks?",
+                "choices": [
+                    "Fenrir Greyback",
+                    "Remus Lupin",
+                    "Bill Weasley",
+                    "Gilderoy Lockhart"
+                ],
+                "correct_answer": "Remus Lupin"
+            },
+            {
+                "question": "What is the name of the house elf who works at Hogwarts?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Hokey"
+            },
+            {
+                "question": "What is the name of the magical creature that lures its prey with gold?",
+                "choices": [
+                    "Niffler",
+                    "Acromantula",
+                    "Basilisk",
+                    "Sphinx"
+                ],
+                "correct_answer": "Niffler"
+            },
+            {
+                "question": "What is the name of the wizarding school located in France?",
+                "choices": [
+                    "Beauxbatons",
+                    "Durmstrang",
+                    "Ilvermorny",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Beauxbatons"
+            },
+            {
+                "question": "What is the name of the wizarding bank?",
+                "choices": [
+                    "Gringotts",
+                    "Floo Powder Co.",
+                    "Madam Malkin's Robes for All Occasions",
+                    "Flourish and Blotts"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "Who was the first person to fly without a broomstick?",
+                "choices": [
+                    "Neville Longbottom",
+                    "Harry Potter",
+                    "Hermione Granger",
+                    "Ron Weasley"
+                ],
+                "correct_answer": "Hermione Granger"
+            },
+            {
+                "question": "What is the name of the founder of Gryffindor House?",
+                "choices": [
+                    "Salazar Slytherin",
+                    "Godric Gryffindor",
+                    "Rowena Ravenclaw",
+                    "Helga Hufflepuff"
+                ],
+                "correct_answer": "Godric Gryffindor"
+            },
+            {
+                "question": "What is the name of the centaur who helps Harry and Hermione in 'The Sorcerer's Stone'?",
+                "choices": [
+                    "Bane",
+                    "Ronan",
+                    "Firenze",
+                    "Magorian"
+                ],
+                "correct_answer": "Firenze"
+            },
+            {
+                "question": "What is the name of the wizarding hospital?",
+                "choices": [
+                    "St. Mungo's",
+                    "Hogwarts Hospital Wing",
+                    "Muggle Medical Center",
+                    "St. Joseph's"
+                ],
+                "correct_answer": "St. Mungo's"
+            },
+            {
+                "question": "What is the name of the town where the Weasley family lives?",
+                "choices": [
+                    "Ottery St. Catchpole",
+                    "Hogsmeade",
+                    "Godric's Hollow",
+                    "Little Whinging"
+                ],
+                "correct_answer": "Ottery St. Catchpole"
+            },
+            {
+                "question": "What is the name of the potion that allows a person to transform into someone else?",
+                "choices": [
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Felix Felicis",
+                    "Wolfsbane Potion"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the werewolf who bit Remus Lupin?",
+                "choices": [
+                    "Fenrir Greyback",
+                    "Viktor Krum",
+                    "Barty Crouch Jr.",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": "Fenrir Greyback"
+            },
+            {
+                "question": "What is the name of the spell used to disarm an opponent?",
+                "choices": [
+                    "Expelliarmus",
+                    "Stupefy",
+                    "Crucio",
+                    "Avada Kedavra"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "What is the name of the potion that allows a person to breathe underwater?",
+                "choices": [
+                    "Gillyweed",
+                    "Mandrake Draught",
+                    "Wolfsbane Potion",
+                    "Skele-Gro"
+                ],
+                "correct_answer": "Gillyweed"
+            },
+            {
+                "question": "What is the name of the pub where the Death Eaters attack the Weasleys, Harry, and Hermione in 'The Deathly Hallows'?",
+                "choices": [
+                    "The Three Broomsticks",
+                    "The Hanged Man",
+                    "The Hog's Head",
+                    "The Leaky Cauldron"
+                ],
+                "correct_answer": "The Seven Potters"
+            },
+            {
+                "question": "What is the name of the character who is cursed with a mummy's curse in 'The Chamber of Secrets'?",
+                "choices": [
+                    "Colin Creevey",
+                    "Justin Finch-Fletchley",
+                    "Penelope Clearwater",
+                    "Hermione Granger"
+                ],
+                "correct_answer": "Hermione Granger"
+            },
+            {
+                "question": "What is the name of the dragon that Harry, Ron, and Hermione set free in 'The Goblet of Fire'?",
+                "choices": [
+                    "Smaug",
+                    "Norbert",
+                    "Aragog",
+                    "Hungarian Horntail"
+                ],
+                "correct_answer": "Hungarian Horntail"
+            },
+            {
+                "question": "What is the name of the house elf who belongs to the Black family and helps Harry, Ron, and Hermione in 'The Deathly Hallows'?",
+                "choices": [
+                    "Kreacher",
+                    "Dobby",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the character who teaches Divination at Hogwarts?",
+                "choices": [
+                    "Professor McGonagall",
+                    "Professor Sprout",
+                    "Professor Trelawney",
+                    "Professor Snape"
+                ],
+                "correct_answer": "Professor Trelawney"
+            },
+            {
+                "question": "What is the name of the magical creature that lives in the lake at Hogwarts and is mistaken for the monster in 'The Chamber of Secrets'?",
+                "choices": [
+                    "Thestral",
+                    "Mermaid",
+                    "Giant Squid",
+                    "Grindylow"
+                ],
+                "correct_answer": "Giant Squid"
+            },
+            {
+                "question": "What is the name of the character who creates the Marauder's Map?",
+                "choices": [
+                    "James Potter",
+                    "Remus Lupin",
+                    "Sirius Black",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": "James Potter"
+            },
+            {
+                "question": "What is the name of the house elf who works for the Malfoy family?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Hokey",
+                    "Winky"
+                ],
+                "correct_answer": "Winky"
+            },
+            {
+                "question": "What is the name of the character who is a skilled Legilimens and helps train Harry in 'The Order of the Phoenix'?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Severus Snape",
+                    "Nymphadora Tonks",
+                    "Luna Lovegood"
+                ],
+                "correct_answer": "Severus Snape"
+            },
+            {
+                "question": "What is the name of the plant that Neville is an expert in caring for?",
+                "choices": [
+                    "Devil's Snare",
+                    "Mandrakes",
+                    "Venomous Tentacula",
+                    "Bouncing Bulbs"
+                ],
+                "correct_answer": "Mandrakes"
+            },
+            {
+                "question": "What is the name of the potion that enables a person to assume the form of another?",
+                "choices": [
+                    "Felix Felicis",
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Wolfsbane Potion"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the Headmaster of Beauxbatons Academy of Magic?",
+                "choices": [
+                    "Madame Olympe Maxime",
+                    "Madame Irma Pince",
+                    "Madame Hooch",
+                    "Madame Pomfrey"
+                ],
+                "correct_answer": "Madame Olympe Maxime"
+            },
+            {
+                "question": "What is the name of the wizarding prison guarded by Dementors?",
+                "choices": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "St. Mungo's"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the potion that grants the drinker immense strength?",
+                "choices": [
+                    "Draught of Living Death",
+                    "Skele-Gro",
+                    "Polyjuice Potion",
+                    "Felix Felicis"
+                ],
+                "correct_answer": "Draught of Living Death"
+            },
+            {
+                "question": "What is the name of the wizarding school in America?",
+                "choices": [
+                    "Ilvermorny",
+                    "Beauxbatons",
+                    "Durmstrang",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Ilvermorny"
+            },
+            {
+                "question": "What is the name of the elf who betrays Harry and his friends to Bellatrix Lestrange?",
+                "choices": [
+                    "Kreacher",
+                    "Dobby",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Dobby"
+            },
+            {
+                "question": "What is the name of the three-headed dog that guards the Philosopher's Stone?",
+                "choices": [
+                    "Fluffy",
+                    "Fang",
+                    "Aragog",
+                    "Norbert"
+                ],
+                "correct_answer": "Fluffy"
+            },
+            {
+                "question": "What is the name of the wizarding newspaper published by Luna Lovegood's father?",
+                "choices": [
+                    "The Daily Prophet",
+                    "The Quibbler",
+                    "The Witching Hour",
+                    "The Hogwarts Herald"
+                ],
+                "correct_answer": "The Quibbler"
+            },
+            {
+                "question": "What is the name of the house-elf who is obsessed with cleaning?",
+                "choices": [
+                    "Kreacher",
+                    "Dobby",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "Who gave Harry the Marauder's Map?",
+                "choices": [
+                    "James Potter",
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": "Fred and George Weasley"
+            },
+            {
+                "question": "What is the name of the dragon that Harry faces in the Triwizard Tournament?",
+                "choices": [
+                    "Norbert",
+                    "Smaug",
+                    "Falkor",
+                    "Hungarian Horntail"
+                ],
+                "correct_answer": "Hungarian Horntail"
+            },
+            {
+                "question": "What does the Mirror of Erised show?",
+                "choices": [
+                    "Your deepest desires",
+                    "Your future self",
+                    "Your past memories",
+                    "Your worst fears"
+                ],
+                "correct_answer": "Your deepest desires"
+            },
+            {
+                "question": "What is the name of the plant that Dumbledore uses to slow down Voldemort's curse in the fifth book?",
+                "choices": [
+                    "Mistletoe",
+                    "Devil's Snare",
+                    "Mandrake",
+                    "Fanged Geranium"
+                ],
+                "correct_answer": "Fanged Geranium"
+            },
+            {
+                "question": "What is the name of the Goblin who helps Harry, Ron, and Hermione break into Gringotts Bank?",
+                "choices": [
+                    "Griphook",
+                    "Ragnuk",
+                    "Grindelwald",
+                    "Winky"
+                ],
+                "correct_answer": "Griphook"
+            },
+            {
+                "question": "What is the name of the House Elf who serves the Black family?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the spell that Harry uses to defeat Voldemort in the final battle?",
+                "choices": [
+                    "Expelliarmus",
+                    "Avada Kedavra",
+                    "Crucio",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "What is the name of the wizard prison in the Harry Potter books?",
+                "choices": [
+                    "Azkaban",
+                    "Hogwarts",
+                    "Nurmengard",
+                    "Beauxbatons"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the sword that Harry uses to destroy the Horcruxes?",
+                "choices": [
+                    "Excalibur",
+                    "Gryffindor's Sword",
+                    "The Sword of Godric",
+                    "The Sword of Destiny"
+                ],
+                "correct_answer": "Gryffindor's Sword"
+            },
+            {
+                "question": "What is the name of the charm that makes objects levitate?",
+                "choices": [
+                    "Wingardium Leviosa",
+                    "Leviosa Charm",
+                    "Accio",
+                    "Expelliarmus"
+                ],
+                "correct_answer": "Wingardium Leviosa"
+            },
+            {
+                "question": "What is the name of the potion that causes the drinker to fall into a deep, death-like sleep?",
+                "choices": [
+                    "Felix Felicis",
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Draught of Living Death"
+                ],
+                "correct_answer": "Draught of Living Death"
+            },
+            {
+                "question": "What is the name of the school that Durmstrang sends its students to for the Triwizard Tournament?",
+                "choices": [
+                    "Hogwarts",
+                    "Beauxbatons",
+                    "Ilvermorny",
+                    "Koldovstoretz"
+                ],
+                "correct_answer": "Hogwarts"
+            },
+            {
+                "question": "What is the name of the ghost who haunts the Ravenclaw common room?",
+                "choices": [
+                    "Nearly Headless Nick",
+                    "The Bloody Baron",
+                    "The Grey Lady",
+                    "Moaning Myrtle"
+                ],
+                "correct_answer": "The Grey Lady"
+            },
+            {
+                "question": "What is the name of the dragon that Hagrid takes care of in the Forbidden Forest?",
+                "choices": [
+                    "Norbert",
+                    "Smaug",
+                    "Buckbeak",
+                    "Fluffy"
+                ],
+                "correct_answer": "Norbert"
+            },
+            {
+                "question": "What is the name of the goblin who helps Harry break into Gringotts bank?",
+                "choices": [
+                    "Griphook",
+                    "Gornuk",
+                    "Ragnok",
+                    "Bogrod"
+                ],
+                "correct_answer": "Griphook"
+            },
+            {
+                "question": "What is the name of the curse that Katie Bell is under the influence of?",
+                "choices": [
+                    "Avada Kedavra",
+                    "Cruciatus Curse",
+                    "Imperius Curse",
+                    "Babbling Curse"
+                ],
+                "correct_answer": "Babbling Curse"
+            },
+            {
+                "question": "What is the name of the Weasley family owl?",
+                "choices": [
+                    "Hedwig",
+                    "Errol",
+                    "Pigwidgeon",
+                    "Scabbers"
+                ],
+                "correct_answer": "Errol"
+            },
+            {
+                "question": "What is the name of the author of 'Magical Me'?",
+                "choices": [
+                    "Gilderoy Lockhart",
+                    "Rita Skeeter",
+                    "Bathilda Bagshot",
+                    "Newt Scamander"
+                ],
+                "correct_answer": "Gilderoy Lockhart"
+            },
+            {
+                "question": "What is the name of the drink that Ron is poisoned with in 'The Half-Blood Prince'?",
+                "choices": [
+                    "Veritaserum",
+                    "Felix Felicis",
+                    "Polyjuice Potion",
+                    "Love Potion"
+                ],
+                "correct_answer": "Love Potion"
+            },
+            {
+                "question": "What is the name of the werewolf who bit Lupin?",
+                "choices": [
+                    "Fenrir Greyback",
+                    "Remus Lupin",
+                    "Sirius Black",
+                    "James Potter"
+                ],
+                "correct_answer": "Fenrir Greyback"
+            },
+            {
+                "question": "What is the name of the dark wizard who impersonated Mad-Eye Moody in 'The Goblet of Fire'?",
+                "choices": [
+                    "Voldemort",
+                    "Grindelwald",
+                    "Barty Crouch Jr.",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": "Barty Crouch Jr."
+            },
+            {
+                "question": "What is the name of the house elf who serves the Black family?",
+                "choices": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the house that Sirius Black grew up in?",
+                "choices": [
+                    "The Burrow",
+                    "The Shrieking Shack",
+                    "12 Grimmauld Place",
+                    "Malfoy Manor"
+                ],
+                "correct_answer": "12 Grimmauld Place"
+            },
+            {
+                "question": "What is the name of the Hogwarts ghost who haunts the girls' bathroom?",
+                "choices": [
+                    "The Bloody Baron",
+                    "The Grey Lady",
+                    "Nearly Headless Nick",
+                    "Moaning Myrtle"
+                ],
+                "correct_answer": "Moaning Myrtle"
+            },
+            {
+                "question": "What is the name of the spell that Harry uses to fix his wand in 'The Deathly Hallows'?",
+                "choices": [
+                    "Reparo",
+                    "Accio",
+                    "Expelliarmus",
+                    "Stupefy"
+                ],
+                "correct_answer": "Reparo"
+            },
+            {
+                "question": "What is the name of the head of the Department of Magical Law Enforcement?",
+                "choices": [
+                    "Cornelius Fudge",
+                    "Amelia Bones",
+                    "Rufus Scrimgeour",
+                    "Pius Thicknesse"
+                ],
+                "correct_answer": "Pius Thicknesse"
+            },
+            {
+                "question": "What is the name of the potion that grants the drinker good luck?",
+                "choices": [
+                    "Felix Felicis",
+                    "Veritaserum",
+                    "Polyjuice Potion",
+                    "Draught of Living Death"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the family who owns the Shrieking Shack?",
+                "choices": [
+                    "The Gaunts",
+                    "The Potters",
+                    "The Blacks",
+                    "The Prewetts"
+                ],
+                "correct_answer": "The Gaunts"
+            },
+            {
+                "question": "What is the name of the wizarding prison?",
+                "choices": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Durmstrang",
+                    "Beauxbatons"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the wizard who invented the Wolfsbane potion?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Remus Lupin",
+                    "Horace Slughorn",
+                    "Severus Snape"
+                ],
+                "correct_answer": "Remus Lupin"
+            },
+            {
+                "question": "What is the name of the spell that allows the caster to control another person?",
+                "choices": [
+                    "Crucio",
+                    "Avada Kedavra",
+                    "Imperio",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Imperio"
+            },
+            {
+                "question": "What is the name of the potion that allows the drinker to assume the form of someone else?",
+                "choices": [
+                    "Veritaserum",
+                    "Polyjuice Potion",
+                    "Felix Felicis",
+                    "Draught of Living Death"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the house elf who helps Harry during the Triwizard Tournament?",
+                "choices": [
+                    "Dobby",
+                    "Winky",
+                    "Kreacher",
+                    "Hokey"
+                ],
+                "correct_answer": "Winky"
+            },
+            {
+                "question": "What is the name of the mermaid who saves Harry from the lake during the Triwizard Tournament?",
+                "choices": [
+                    "Gabrielle",
+                    "Fleur",
+                    "Cho",
+                    "Hermione"
+                ],
+                "correct_answer": "Gabrielle"
+            },
+            {
+                "question": "What is the name of the creature that guards the entrance to the Chamber of Secrets?",
+                "choices": [
+                    "Basilisk",
+                    "Acromantula",
+                    "Hippogriff",
+                    "Thestral"
+                ],
+                "correct_answer": "Basilisk"
+            },
+            {
+                "question": "What is the name of the plant that Neville accidentally gives Harry during their Herbology lesson?",
+                "choices": [
+                    "Mimbulus Mimbletonia",
+                    "Gillyweed",
+                    "Devil's Snare",
+                    "Whomping Willow"
+                ],
+                "correct_answer": "Mimbulus Mimbletonia"
+            },
+            {
+                "question": "What is the name of the object that Dumbledore uses to destroy the Horcrux in the cave?",
+                "choices": [
+                    "Elder Wand",
+                    "Invisibility Cloak",
+                    "Resurrection Stone",
+                    "Sword of Gryffindor"
+                ],
+                "correct_answer": "Sword of Gryffindor"
+            },
+            {
+                "question": "What is the name of the creature that Dolores Umbridge uses to punish students?",
+                "choices": [
+                    "Boggart",
+                    "Hinkypunk",
+                    "Dementor",
+                    "Thestrals"
+                ],
+                "correct_answer": "Dementor"
+            },
+            {
+                "question": "What is the name of the potion that makes the drinker lucky?",
+                "choices": [
+                    "Felix Felicis",
+                    "Amortentia",
+                    "Veritaserum",
+                    "Polyjuice Potion"
+                ],
+                "correct_answer": "Felix Felicis"
+            },
+            {
+                "question": "What is the name of the dragon that Harry faces during the Triwizard Tournament?",
+                "choices": [
+                    "Norbert",
+                    "Charlie",
+                    "Horntail",
+                    "Smoky"
+                ],
+                "correct_answer": "Horntail"
+            },
+            {
+                "question": "What is the name of the potion that allows the drinker to assume the form of someone else?",
+                "choices": [
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Felix Felicis",
+                    "Draught of Living Death"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "Who is the author of 'Magical Water Plants of the Mediterranean'?",
+                "choices": [
+                    "Gilderoy Lockhart",
+                    "Albus Dumbledore",
+                    "Hermione Granger",
+                    "Neville Longbottom"
+                ],
+                "correct_answer": "Gilderoy Lockhart"
+            },
+            {
+                "question": "What is the name of the werewolf who bit Remus Lupin?",
+                "choices": [
+                    "Fenrir Greyback",
+                    "Bellatrix Lestrange",
+                    "Antonin Dolohov",
+                    "Walden Macnair"
+                ],
+                "correct_answer": "Fenrir Greyback"
+            },
+            {
+                "question": "What is the name of the spell used to summon objects?",
+                "choices": [
+                    "Accio",
+                    "Alohomora",
+                    "Avada Kedavra",
+                    "Crucio"
+                ],
+                "correct_answer": "Accio"
+            },
+            {
+                "question": "What is the name of the plant that Neville Longbottom is good at taking care of?",
+                "choices": [
+                    "Devil's Snare",
+                    "Mandrake",
+                    "Gillyweed",
+                    "Sneezewort"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What is the name of the wizarding prison?",
+                "choices": [
+                    "Azkaban",
+                    "Gringotts",
+                    "Hogwarts",
+                    "Ministry of Magic"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the sport played on broomsticks at Hogwarts?",
+                "choices": [
+                    "Quidditch",
+                    "Witchball",
+                    "Broomball",
+                    "Broomstick Polo"
+                ],
+                "correct_answer": "Quidditch"
+            },
+            {
+                "question": "What is the name of the magical creature that sucks the blood of its prey?",
+                "choices": [
+                    "Basilisk",
+                    "Grindylow",
+                    "Kelpie",
+                    "Vampire"
+                ],
+                "correct_answer": "Vampire"
+            },
+            {
+                "question": "What is the name of the curse that caused the Longbottoms to go insane?",
+                "choices": [
+                    "Cruciatus Curse",
+                    "Imperius Curse",
+                    "Avada Kedavra Curse",
+                    "Sectumsempra Curse"
+                ],
+                "correct_answer": "Cruciatus Curse"
+            },
+            {
+                "question": "What is the name of the ghost who haunts the girls' bathroom at Hogwarts?",
+                "choices": [
+                    "Bloody Baron",
+                    "Grey Lady",
+                    "Fat Friar",
+                    "Moaning Myrtle"
+                ],
+                "correct_answer": "Moaning Myrtle"
+            },
+            {
+                "question": "What is the name of the shop where Harry purchases his wand?",
+                "choices": [
+                    "Ollivander's Wand Shop",
+                    "Borgin and Burkes",
+                    "Flourish and Blotts",
+                    "Madam Malkin's Robes for All Occasions"
+                ],
+                "correct_answer": "Ollivander's Wand Shop"
+            },
+            {
+                "question": "What is the name of the goblin who helps Harry break into Gringotts Bank?",
+                "choices": [
+                    "Griphook",
+                    "Gornuk",
+                    "Ragnok",
+                    "Travers"
+                ],
+                "correct_answer": "Griphook"
+            },
+            {
+                "question": "What is the name of the ghost who haunts the girls' bathroom on the second floor?",
+                "choices": [
+                    "The Bloody Baron",
+                    "Moaning Myrtle",
+                    "The Grey Lady",
+                    "Nearly Headless Nick"
+                ],
+                "correct_answer": "Moaning Myrtle"
+            },
+            {
+                "question": "What is the name of the wizarding prison where Sirius Black was held?",
+                "choices": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "Hogwarts"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the wizarding village where Harry's parents grew up?",
+                "choices": [
+                    "Ottery St. Catchpole",
+                    "Godric's Hollow",
+                    "Little Hangleton",
+                    "Tinworth"
+                ],
+                "correct_answer": "Godric's Hollow"
+            },
+            {
+                "question": "What is the name of the Hogwarts student who is a skilled Legilimens?",
+                "choices": [
+                    "Cho Chang",
+                    "Ginny Weasley",
+                    "Luna Lovegood",
+                    "Tom Riddle"
+                ],
+                "correct_answer": "Tom Riddle"
+            },
+            {
+                "question": "What is the name of the house-elf who saves Harry and his friends from Malfoy Manor?",
+                "choices": [
+                    "Kreacher",
+                    "Winky",
+                    "Dobby",
+                    "Hokey"
+                ],
+                "correct_answer": "Dobby"
+            },
+            {
+                "question": "What is the name of the wizard who becomes Minister for Magic after Cornelius Fudge?",
+                "choices": [
+                    "Rufus Scrimgeour",
+                    "Kingsley Shacklebolt",
+                    "Pius Thicknesse",
+                    "Barty Crouch Sr."
+                ],
+                "correct_answer": "Rufus Scrimgeour"
+            },
+            {
+                "question": "What is the name of the magical object that shows a person's innermost desires?",
+                "choices": [
+                    "The Sorcerer's Stone",
+                    "The Resurrection Stone",
+                    "The Pensieve",
+                    "The Mirror of Erised"
+                ],
+                "correct_answer": "The Mirror of Erised"
+            },
+            {
+                "question": "What is the name of the potion that allows a person to assume the appearance of someone else?",
+                "choices": [
+                    "Polyjuice Potion",
+                    "Felix Felicis",
+                    "Veritaserum",
+                    "Amortentia"
+                ],
+                "correct_answer": "Polyjuice Potion"
+            },
+            {
+                "question": "What is the name of the wizard who created the Philosopher's Stone?",
+                "choices": [
+                    "Albus Dumbledore",
+                    "Nicholas Flamel",
+                    "Rowena Ravenclaw",
+                    "Godric Gryffindor"
+                ],
+                "correct_answer": "Nicholas Flamel"
+            },
+            {
+                "question": "What is the name of the Death Eater who becomes the new Minister of Magic in 'The Deathly Hallows'?",
+                "choices": [
+                    "Lucius Malfoy",
+                    "Bellatrix Lestrange",
+                    "Dolores Umbridge",
+                    "Pius Thicknesse"
+                ],
+                "correct_answer": "Pius Thicknesse"
+            },
+            {
+                "question": "What is the name of the wizarding prison in the Harry Potter books?",
+                "choices": [
+                    "Azkaban",
+                    "Alcatraz",
+                    "Sing Sing",
+                    "Leavenworth"
+                ],
+                "correct_answer": "Azkaban"
+            },
+            {
+                "question": "What is the name of the spell used to disarm an opponent?",
+                "choices": [
+                    "Expelliarmus",
+                    "Expecto Patronum",
+                    "Avada Kedavra",
+                    "Crucio"
+                ],
+                "correct_answer": "Expelliarmus"
+            },
+            {
+                "question": "What is the name of the potion that causes the drinker to fall in love?",
+                "choices": [
+                    "Amortentia",
+                    "Polyjuice Potion",
+                    "Veritaserum",
+                    "Felix Felicis"
+                ],
+                "correct_answer": "Amortentia"
+            },
+            {
+                "question": "What is the name of the witch who teaches Divination at Hogwarts?",
+                "choices": [
+                    "Professor Trelawney",
+                    "Professor Sprout",
+                    "Professor Flitwick",
+                    "Professor McGonagall"
+                ],
+                "correct_answer": "Professor Trelawney"
+            },
+            {
+                "question": "What is the name of the wizarding bank in the Harry Potter books?",
+                "choices": [
+                    "Gringotts",
+                    "Wells Fargo",
+                    "Chase",
+                    "Bank of America"
+                ],
+                "correct_answer": "Gringotts"
+            },
+            {
+                "question": "What is the name of the spell that creates a temporary, invisible shield around the caster?",
+                "choices": [
+                    "Protego",
+                    "Stupefy",
+                    "Wingardium Leviosa",
+                    "Incendio"
+                ],
+                "correct_answer": "Protego"
+            },
+            {
+                "question": "What is the name of the werewolf who teaches Defense Against the Dark Arts in 'The Prisoner of Azkaban'?",
+                "choices": [
+                    "Remus Lupin",
+                    "Fenrir Greyback",
+                    "Bill Weasley",
+                    "Gilderoy Lockhart"
+                ],
+                "correct_answer": "Remus Lupin"
+            },
+            {
+                "question": "What is the name of the protective charm used to hide a dwelling from Muggles?",
+                "choices": [
+                    "Fidelius Charm",
+                    "Confundus Charm",
+                    "Imperius Curse",
+                    "Sectumsempra"
+                ],
+                "correct_answer": "Fidelius Charm"
+            },
+            {
+                "question": "What is the name of the dragon that guards the Gringotts Bank vaults?",
+                "choices": [
+                    "Smaug",
+                    "Fafnir",
+                    "Norbert",
+                    "Ukranian Ironbelly"
+                ],
+                "correct_answer": "Ukranian Ironbelly"
+            },
+            {
+                "question": "What is the name of the spell that creates a powerful, invisible magical barrier?",
+                "choices": [
+                    "Protego",
+                    "Expelliarmus",
+                    "Petrificus Totalus",
+                    "Stupefy"
+                ],
+                "correct_answer": "Protego"
+            },
+            {
+                "question": "What is the name of the Hogwarts librarian?",
+                "choices": [
+                    "Irma Pince",
+                    "Madame Maxime",
+                    "Alecto Carrow",
+                    "Sybill Trelawney"
+                ],
+                "correct_answer": "Irma Pince"
+            },
+            {
+                "question": "What is the name of the house-elf who serves the Black family?",
+                "choices": [
+                    "Kreacher",
+                    "Winky",
+                    "Dobby",
+                    "Hokey"
+                ],
+                "correct_answer": "Kreacher"
+            },
+            {
+                "question": "What is the name of the broomstick that Hermione gives Harry for Christmas in his fourth year?",
+                "choices": [
+                    "Firebolt",
+                    "Nimbus 2000",
+                    "Cleansweep Eleven",
+                    "Twigger 90"
+                ],
+                "correct_answer": "Twigger 90"
+            },
+            {
+                "question": "What is the name of the ghost who haunts the girls' bathroom on the second floor?",
+                "choices": [
+                    "Nearly Headless Nick",
+                    "Moaning Myrtle",
+                    "The Grey Lady",
+                    "The Bloody Baron"
+                ],
+                "correct_answer": "Moaning Myrtle"
+            },
+            {
+                "question": "What is the name of the giant spider that lives in the Forbidden Forest?",
+                "choices": [
+                    "Aragog",
+                    "Norbert",
+                    "Fluffy",
+                    "Buckbeak"
+                ],
+                "correct_answer": "Aragog"
+            },
+            {
+                "question": "What is the name of the magical plant that features in the second book and can be used to petrify people?",
+                "choices": [
+                    "Devil's Snare",
+                    "Mandrake",
+                    "Sopophorous Bean",
+                    "Gillyweed"
+                ],
+                "correct_answer": "Mandrake"
+            },
+            {
+                "question": "What is the name of the potion that causes the drinker to become infatuated with the person who gave it to them?",
+                "choices": [
+                    "Amortentia",
+                    "Felix Felicis",
+                    "Veritaserum",
+                    "Polyjuice Potion"
+                ],
+                "correct_answer": "Amortentia"
+            },
+            {
+                "question": "What is the name of the spell used to create a Patronus?",
+                "choices": [
+                    "Expecto Patronum",
+                    "Expelliarmus",
+                    "Petrificus Totalus",
+                    "Stupefy"
+                ],
+                "correct_answer": "Expecto Patronum"
+            }
+        ]
+    }
+]
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5/1io2NMPLtT/DB9li7y4Jp89HW7p8tIde3Ie5g8" crossorigin="anonymous">
+  <style>
+    /* Add your CSS styles here (same as the previous templates) */
+
+    body {
+      background: url("/static/images/background_dark.jpg");
+      font-family: 'Harry P', Magical Me, cursive;
+      background-color: #E6E6FA;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 6rem;
+      color: #4b0082;
+      margin-bottom: 2rem;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
+      letter-spacing: 1px;
+    }
+    button {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 0.5rem 1rem;
+      margin: 0.5rem;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    button:hover {
+      background-color: #4B0082;
+      color: #F0E68C;
+    }
+
+    /* Table styles */
+    table {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+
+    th, td {
+      border: 3px solid #4B0082;
+      padding: 1rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: #F0E68C;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    tr:nth-child(even) {
+      background-color: #E6E6FA;
+    }
+
+    tr:nth-child(odd) {
+      background-color: #F0E68C;
+    }
+
+    h2 {
+
+      padding: 1rem;
+      text-align: left;
+      font-size: 3rem;
+      color: #4B0082;
+    }
+
+  </style>
+  <title>Dashboard - Harry Potter Trivia</title>
+</head>
+<body>
+  <h1>Welcome, the great Wizard <span id="username">Username</span>!</h1>
+  <button onclick="window.location.href='game.html'">Play</button>
+
+  <h2>Wizard Leaderboard</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Wizard</th>
+        <th>House</th>
+        <th>Answered Questions</th>
+        <th>Genius Tally</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Add table rows with user data here -->
+      <!-- Example: -->
+     <tr>
+        <td>Harry</td>
+       <td>Gryffindor</td>
+        <td data-total-questions="100">100</td>
+        <td class="genius-tally" data-correct-answers="80"></td>
+     </tr>
+    </tbody>
+  </table>
+
+  <script>
+          const calculateGeniusTally = () => {
+          const geniusTallyCells = document.querySelectorAll('.genius-tally');
+
+          geniusTallyCells.forEach((cell) => {
+            const correctAnswers = parseInt(cell.getAttribute('data-correct-answers'));
+            const totalQuestions = parseInt(cell.parentElement.querySelector('[data-total-questions]').getAttribute('data-total-questions'));
+
+            const geniusTallyPercentage = Math.round((correctAnswers / totalQuestions) * 100);
+            cell.textContent = `${geniusTallyPercentage}%`;
+          });
+        }
+
+        calculateGeniusTally();
+  </script>
+</body>
+</html>
+

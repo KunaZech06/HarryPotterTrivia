@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: url("/static/images/background_dark.jpg");
+      font-family: 'Harry P', Magical Me, cursive;
+      background-color: #E6E6FA;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 6rem;
+      color: #4b0082;
+      margin-bottom: 2rem;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
+      letter-spacing: 5px;
+    }
+    button {
+      font-family: 'Harry P', cursive;
+      font-size: 1.5rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 0.5rem 2rem;
+      margin: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    button:hover {
+      background-color: #4B0082;
+      color: #F0E68C;
+    }
+
+    input[type="text"], input[type="password"] {
+      font-family: 'Harry P', cursive;
+      font-size: 1.5rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 1rem 2rem;
+      width: 100%;
+      box-sizing: border-box;
+      transition: background-color 0.3s, color 0.3s;
+
+    }
+
+    input[type="text"]:focus, input[type="password"]:focus {
+      background-color: #4B0082;
+      color: #F0E68C;
+      outline: none;
+    }
+
+    label {
+      font-size: 3rem;
+      color: #4B0082;
+      display: block;
+      margin: 1rem 0; /* Increase this value to create more space */
+
+
+}
+    input[type="text"]::placeholder, input[type="password"]::placeholder {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      opacity: 0.5;
+}
+  </style>
+  <title>Register - Harry Potter Trivia</title>
+</head>
+<body>
+  <h1>Register for Harry Potter Trivia</h1>
+  <form>
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" placeholder="Wizardary Name" required>
+    <br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" placeholder="Enter Password" required>
+    <br>
+    <label for="confirm-password">Confirm Password:</label>
+    <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirm Password" required>
+    <br><br>
+    <button onclick="window.location.href='login.html'" type="submit">Register</button>
+  </form>
+</body>
+</html>
+
+
+{% block content %}
+
+{% endblock %}

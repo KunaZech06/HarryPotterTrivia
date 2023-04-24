@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <style>
+
+     body {
+      background: url("/static/images/background_dark.jpg");
+      font-family: 'Harry P', Magical Me, cursive;
+      background-color: #E6E6FA;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 6rem;
+      color: #4b0082;
+      margin-bottom: 2rem;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
+      letter-spacing: 5px;
+    }
+    button {
+      font-family: 'Harry P', cursive;
+      font-size: 1.5rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: .5rem 3rem;
+      margin: 0.5rem;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    button:hover {
+      background-color: #4B0082;
+      color: #F0E68C;
+    }
+  </style>
+  <title>Harry Potter Trivia</title>
+</head>
+<body>
+  <h1>Welcome to Harry Potter Trivia</h1>
+  <button onclick="window.location.href='login.html'">Login</button>
+  <button onclick="window.location.href='register.html'">Register</button>
+</body>
+</html>
