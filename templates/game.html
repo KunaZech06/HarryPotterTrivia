@@ -19,8 +19,9 @@
     }
     h1 {
       font-size: 8rem;
-      color: #4b0082;
+      color: #4B0082;
       margin-bottom: 2rem;
+
     }
     button {
       font-family: 'Harry P', cursive;
@@ -46,8 +47,13 @@
     }
     .question {
       font-size: 5rem;
-      color: #F0E68C;
+      color: #4B0082;
       margin-bottom: 3rem;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
     }
     .options {
       display: flex;
@@ -55,11 +61,18 @@
       justify-content: center;
     }
     .option {
-      width: 45%;
+      width: 50%;
       text-align: left;
-      margin-bottom: 3rem;
-      font-size: 3rem;
+      margin-bottom: 5rem;
+      font-size: 2rem;
+      color: #F0E68C;
+      text-shadow:
+      -1px -1px 0 #4B0082,
+      1px -1px 0 #4B0082,
+      -1px 1px 0 #4B0082,
+      1px 1px 0 #4B0082;
     }
+
     input[type="radio"] {
       width: 25px;
       height: 25px;
@@ -69,21 +82,43 @@
   <title>Game - Harry Potter Trivia</title>
 </head>
 <body>
-  <div class="question-container">
+    <div class="question-container">
     <p class="question" id="question-text">Question text goes here...</p>
-   <div class="options">
-      <!-- Replace the option text with the actual options from your JSON file -->
-      <div class="option"><input type="radio" name="option" value="A"> Option A</div>
-      <div class="option"><input type="radio" name="option" value="B"> Option B</div>
-      <div class="option"><input type="radio" name="option" value="C"> Option C</div>
-      <div class="option"><input type="radio" name="option" value="D"> Option D</div>
+    <div class="options">
+      <div class="option"><input type="radio" name="option" value="A" onclick="enableNextButton()"> Option A</div>
+      <div class="option"><input type="radio" name="option" value="B" onclick="enableNextButton()"> Option B</div>
+      <div class="option"><input type="radio" name="option" value="C" onclick="enableNextButton()"> Option C</div>
+      <div class="option"><input type="radio" name="option" value="D" onclick="enableNextButton()"> Option D</div>
     </div>
   </div>
   <button id="nextButton" class="disabled" disabled>Next</button>
 
-  <script>
-    // Your game logic and question handling will go here
-  </script>
+   <script>
+        function enableNextButton() {
+          const nextButton = document.getElementById('nextButton');
+          nextButton.disabled = false;
+          nextButton.classList.remove('disabled');
+        }
+
+      async function fetchQuestions() {
+        const response = await fetch('/data/questions.json');
+        const questions = await response.json();
+        return questions;
+      }
+
+      fetchQuestions().then(questions => {
+        let currentQuestionIndex = 0;
+        let score = 0;
+        const totalQuestions = 15;
+
+        // Your existing game logic functions
+
+        displayQuestion();
+
+        const nextButton = document.getElementById('nextButton');
+        nextButton.addEventListener('click', nextQuestion);
+      });
+    </script>
 </body>
 </html>
 

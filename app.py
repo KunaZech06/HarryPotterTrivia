@@ -1,27 +1,29 @@
+from flask_sqlalchemy import SQLAlchemy
 import os
 import json
 from flask import Flask, render_template, request, redirect, url_for, flash
-from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 import random
-import html
-
-
-def load_questions():
-    file_path = os.path.join("data", "questions.json")
-    with open(file_path, "r") as file:
-        questions = json.load(file)
-    return questions
 
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///app.db'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 login_manager = LoginManager(app)
-
 app.jinja_env.add_extension('jinja2.ext.loopcontrols')
+
+
+def load_questions():
+    file_path = os.path.join("data", "questions.json")
+    abs_file_path = os.path.abspath(file_path)
+    print("Absolute path to questions.json:", abs_file_path)
+
+    with open(file_path, "r") as file:
+        questions = json.load(file)
+    return questions
 
 
 class Score(db.Model):
@@ -43,6 +45,7 @@ class User(UserMixin, db.Model):
     password = db.Column(db.String(120), nullable=False)
     score = db.Column(db.Integer, default=0)
     games_played = db.Column(db.Integer, default=0)
+    scores = db.relationship('Score', backref='user', lazy=True)
 
 
 with app.app_context():
@@ -70,7 +73,7 @@ def login():
     return render_template('login.html')
 
 
-@app.route('/register', methods=['GET', 'POST'])  # Fixed the route decorator
+@app.route('/register/', methods=['GET', 'POST'])  # Fixed the route decorator
 def register():
     if request.method == 'POST':
         email = request.form['email']
@@ -94,16 +97,16 @@ def register():
         flash('Registration successful!')
         return redirect(url_for('login'))
 
-    return render_template('/register.html')
+    return render_template('register.html')
 
 
-@app.route('/dashboard')
+@app.route('/dashboard/')
 @login_required
 def dashboard():
     users = User.query.order_by(User.score.desc()).all()
-    return render_template('dashboard.html', users=users)
+    return render_template('dashboard.html', username=current_user.username, users=users)
 
-@app.route('/game', methods=['GET', 'POST'])
+@app.route('/game/', methods=['GET', 'POST'])
 @login_required
 def game():
     if request.method == 'POST':
@@ -121,11 +124,12 @@ def game():
         current_user.games_played += 1
         db.session.commit()
 
-        flash(f'You answered {correct_answers} questions correctly!')
-        return redirect(url_for('dashboard'))
+        percentage = (correct_answers / len(questions)) * 100
+        return render_template('results.html', correct_answers=correct_answers, percentage=percentage)
 
     # Load trivia questions from JSON file and render game template
-    questions = load_questions()
+    all_questions = load_questions()
+    questions = random.sample(all_questions, 15)  # Select 15 random questions
     return render_template('game.html', questions=questions)
 
 
@@ -133,14 +137,18 @@ def game():
 @login_required
 def logout():
     logout_user()
-    return redirect(url_for('home'))
+    return redirect(url_for('login'))
 
 
 @app.route('/game/quit')
 @login_required
 def quit_game():
+    # Load trivia questions from JSON file
+    all_questions = load_questions()
+    questions = random.sample(all_questions, 15)  # Select 15 random questions
+
     # Get the number of unanswered questions
-    unanswered_questions = 30 - int(request.args.get("answered_questions", 0))
+    unanswered_questions = len(questions) - int(request.args.get("answered_questions", 0))
 
     # Calculate the penalty for quitting the game early
     penalty = 25 * unanswered_questions

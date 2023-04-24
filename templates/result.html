@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="script.js"></script>
+<style>
+    body {
+      background: url("/static/images/background_Questions1.jpg");
+      font-family: 'Harry P', Magical Me, cursive;
+      background-color: #444;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    p {
+
+      font-size: 6rem;
+      color: #4b0082;
+      margin-bottom: 10rem;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
+      letter-spacing: 1px;
+
+    }
+
+    button {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 0.5rem 2rem;
+      margin: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    button:hover {
+      background-color: #4B0082;
+      color: #F0E68C;
+    }
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+</head>
+<body>
+    <h1 id="result-message"></h1>
+    <p>You scored <span id="score">{{ percentage }}%</span>!</p>
+    <p id="message"></p>
+    <button onclick="window.location.href='{{ url_for('dashboard') }}'">Back to Dashboard</button>
+
+    <script>
+      // Use the passed correct_answers and percentage values
+      const correctAnswers = {{ correct_answers }};
+      const percentage = {{ percentage }};
+
+      // Display a message based on the percentage
+      let message = '';
+      if (percentage >= 80) {
+        message = "Well done! You truly are a Wizard!";
+      } else if (percentage >= 60 && percentage < 80) {
+        message = "Well, I will consider you a wizard for now, or should I say MUDBLOOD!?";
+      } else {
+        message = "Get outta here, you MUGGLE!";
+      }
+      document.getElementById("message").innerText = message;
+    </script>
+</body>
+</html>

@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <script src="/static/js/script.js" defer></script>
   <style>
     body {
       background: url("/static/images/background_dark.jpg");
       font-family: 'Harry P', Magical Me, cursive;
-      background-color: #E6E6FA;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -25,7 +25,7 @@
       1px -1px 0 #F0E68C,
       -1px 1px 0 #F0E68C,
       1px 1px 0 #F0E68C;
-      letter-spacing: 3px;
+      letter-spacing: 5px;
     }
     button {
       font-family: 'Harry P', cursive;
@@ -34,8 +34,8 @@
       background-color: #F0E68C;
       border: 2px solid #4B0082;
       border-radius: 10px;
-      padding: 0.5rem 1rem;
-      margin: 0.5rem;
+      padding: 0.5rem 2rem;
+      margin: 1rem;
       cursor: pointer;
       transition: background-color 0.3s, color 0.3s;
     }
@@ -43,57 +43,56 @@
       background-color: #4B0082;
       color: #F0E68C;
     }
-
+    input[type="text"], input[type="password"] {
+      font-family: 'Harry P', cursive;
+      font-size: 2rem;
+      color: #4B0082;
+      background-color: #F0E68C;
+      border: 2px solid #4B0082;
+      border-radius: 10px;
+      padding: 1rem 2rem;
+      width: 100%;
+      box-sizing: border-box;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    input[type="text"]:focus, input[type="password"]:focus {
+      background-color: #4B0082;
+      color: #F0E68C;
+      outline: none;
+      font-size: 2rem;
+    }
     label {
       font-size: 3rem;
       color: #4B0082;
       display: block;
       margin: 1rem 0;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
     }
-
-    input[type="text"], input[type="password"] {
-      font-family: 'Harry P', cursive;
-      font-size: 2rem;
-      color: #4B0082;
-      background-color: #4B0082;
-      border: 2px solid #4B0082;
-      border-radius: 10px;
-      padding: 0.5rem 1rem;
-      width: 100%;
-      box-sizing: border-box;
-      transition: background-color 0.3s, color 0.3s;
-      letter-spacing: 3px;
-    }
-
-    input[type="text"]:focus, input[type="password"]:focus {
-      font-family: 'Harry P', cursive;
-      background-color: #4B0082;
-      color: #F0E68C;
-      outline: none;
-      text-align: center;
-    }
-
     input[type="text"]::placeholder, input[type="password"]::placeholder {
       font-family: 'Harry P', cursive;
       font-size: 1.5rem;
       color: #4B0082;
-      opacity: 1;
-      text-align: center;
-}
+      opacity: 0.5;
+    }
   </style>
   <title>Login - Harry Potter Trivia</title>
 </head>
 <body>
   <h1>Login to Harry Potter Trivia</h1>
-  <form>
+  <form autocomplete="off" action="{{ url_for('login') }}" method="POST">
     <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required>
+    <input type="text" id="username" name="username" placeholder="Wizardry Name" required>
     <br>
     <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required>
+    <input type="password" id="password" name="password" placeholder="Password" required>
     <br><br>
-    <button type="submit" onclick="window.location.href='dashboard.html'">Login</button>
-  </form>
+  <!-- The rest of your form elements go here -->
+      <button type="submit" onclick="window.location.href='login.html'">Login</button>
+    </form>
 </body>
 </html>
 

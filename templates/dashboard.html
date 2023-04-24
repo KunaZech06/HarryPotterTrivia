@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5/1io2NMPLtT/DB9li7y4Jp89HW7p8tIde3Ie5g8" crossorigin="anonymous">
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
   <style>
     /* Add your CSS styles here (same as the previous templates) */
 
@@ -32,12 +33,12 @@
     }
     button {
       font-family: 'Harry P', cursive;
-      font-size: 2rem;
+      font-size: 3rem;
       color: #4B0082;
       background-color: #F0E68C;
       border: 2px solid #4B0082;
       border-radius: 10px;
-      padding: 0.5rem 1rem;
+      padding: 0rem 3rem;
       margin: 0.5rem;
       cursor: pointer;
       transition: background-color 0.3s, color 0.3s;
@@ -81,16 +82,21 @@
     h2 {
 
       padding: 1rem;
-      text-align: left;
-      font-size: 3rem;
+      text-align: center;
+      font-size: 3.5rem;
       color: #4B0082;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
     }
 
   </style>
   <title>Dashboard - Harry Potter Trivia</title>
 </head>
 <body>
-  <h1>Welcome, the great Wizard <span id="username">Username</span>!</h1>
+  <h1>Welcome, the great Wizard <br>  <span id="username">{{ username }}</span>!</h1>
   <button onclick="window.location.href='game.html'">Play</button>
 
   <h2>Wizard Leaderboard</h2>
@@ -106,30 +112,16 @@
     <tbody>
       <!-- Add table rows with user data here -->
       <!-- Example: -->
-     <tr>
-        <td>Harry</td>
-       <td>Gryffindor</td>
-        <td data-total-questions="100">100</td>
-        <td class="genius-tally" data-correct-answers="80"></td>
-     </tr>
+     {% for user in users %}
+  <tr>
+    <td>{{ user.username }}</td>
+    <td>{{ user.house }}</td>
+    <td data-total-questions="{{ user.games_played }}">{{ user.games_played }}</td>
+    <td class="genius-tally" data-correct-answers="{{ user.score }}"></td>
+  </tr>
+{% endfor %}
     </tbody>
   </table>
-
-  <script>
-          const calculateGeniusTally = () => {
-          const geniusTallyCells = document.querySelectorAll('.genius-tally');
-
-          geniusTallyCells.forEach((cell) => {
-            const correctAnswers = parseInt(cell.getAttribute('data-correct-answers'));
-            const totalQuestions = parseInt(cell.parentElement.querySelector('[data-total-questions]').getAttribute('data-total-questions'));
-
-            const geniusTallyPercentage = Math.round((correctAnswers / totalQuestions) * 100);
-            cell.textContent = `${geniusTallyPercentage}%`;
-          });
-        }
-
-        calculateGeniusTally();
-  </script>
 </body>
 </html>
 

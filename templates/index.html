@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Harry+Potter&display=swap" rel="stylesheet">
+  <script src="/static/js/script.js" defer></script>
   <style>
 
      body {
@@ -44,12 +45,31 @@
       background-color: #4B0082;
       color: #F0E68C;
     }
+
+    p {
+      font-family: 'Harry P', cursive;
+      font-size: 3rem;
+      color: #4b0082;
+      text-shadow:
+      -1px -1px 0 #F0E68C,
+      1px -1px 0 #F0E68C,
+      -1px 1px 0 #F0E68C,
+      1px 1px 0 #F0E68C;
+      letter-spacing: 1px;
+    }
+    input[type="text"]:focus, input[type="password"]:focus {
+      background-color: #4B0082;
+      color: #F0E68C;
+      outline: none;
+      font-size: 2rem;
+    }
+
   </style>
   <title>Harry Potter Trivia</title>
 </head>
 <body>
   <h1>Welcome to Harry Potter Trivia</h1>
   <button onclick="window.location.href='login.html'">Login</button>
-  <button onclick="window.location.href='register.html'">Register</button>
+  <p>Don't have an account? <a href="register.html">Register</a></p>
 </body>
 </html>
